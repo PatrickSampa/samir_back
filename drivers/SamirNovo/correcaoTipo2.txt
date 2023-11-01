@@ -1,0 +1,2403 @@
+[
+    {
+        "id": 89,
+        "data": "1994-03-01T00:00:00.000+00:00",
+        "percentual": 46.02,
+        "taxaCorrecao": 1.4602,
+        "type": 2
+    },
+    {
+        "id": 90,
+        "data": "1994-04-01T00:00:00.000+00:00",
+        "percentual": 42.19,
+        "taxaCorrecao": 1.4219,
+        "type": 2
+    },
+    {
+        "id": 91,
+        "data": "1994-05-01T00:00:00.000+00:00",
+        "percentual": 44.17,
+        "taxaCorrecao": 1.4417,
+        "type": 2
+    },
+    {
+        "id": 92,
+        "data": "1994-06-01T00:00:00.000+00:00",
+        "percentual": 44.07,
+        "taxaCorrecao": 1.4407,
+        "type": 2
+    },
+    {
+        "id": 93,
+        "data": "1994-07-01T00:00:00.000+00:00",
+        "percentual": 6.08,
+        "taxaCorrecao": 1.0608,
+        "type": 2
+    },
+    {
+        "id": 94,
+        "data": "1994-08-01T00:00:00.000+00:00",
+        "percentual": 5.46,
+        "taxaCorrecao": 1.0546,
+        "type": 2
+    },
+    {
+        "id": 95,
+        "data": "1994-09-01T00:00:00.000+00:00",
+        "percentual": 1.51,
+        "taxaCorrecao": 1.0151,
+        "type": 2
+    },
+    {
+        "id": 96,
+        "data": "1994-10-01T00:00:00.000+00:00",
+        "percentual": 1.86,
+        "taxaCorrecao": 1.0186,
+        "type": 2
+    },
+    {
+        "id": 97,
+        "data": "1994-11-01T00:00:00.000+00:00",
+        "percentual": 3.27,
+        "taxaCorrecao": 1.0327,
+        "type": 2
+    },
+    {
+        "id": 98,
+        "data": "1994-12-01T00:00:00.000+00:00",
+        "percentual": 2.19,
+        "taxaCorrecao": 1.0219,
+        "type": 2
+    },
+    {
+        "id": 99,
+        "data": "1995-01-01T00:00:00.000+00:00",
+        "percentual": 1.67,
+        "taxaCorrecao": 1.0167,
+        "type": 2
+    },
+    {
+        "id": 100,
+        "data": "1995-02-01T00:00:00.000+00:00",
+        "percentual": 0.99,
+        "taxaCorrecao": 1.0099,
+        "type": 2
+    },
+    {
+        "id": 101,
+        "data": "1995-03-01T00:00:00.000+00:00",
+        "percentual": 1.41,
+        "taxaCorrecao": 1.0141,
+        "type": 2
+    },
+    {
+        "id": 102,
+        "data": "1995-04-01T00:00:00.000+00:00",
+        "percentual": 1.92,
+        "taxaCorrecao": 1.0192,
+        "type": 2
+    },
+    {
+        "id": 103,
+        "data": "1995-05-01T00:00:00.000+00:00",
+        "percentual": 2.57,
+        "taxaCorrecao": 1.0257,
+        "type": 2
+    },
+    {
+        "id": 104,
+        "data": "1995-06-01T00:00:00.000+00:00",
+        "percentual": 1.82,
+        "taxaCorrecao": 1.0182,
+        "type": 2
+    },
+    {
+        "id": 105,
+        "data": "1995-07-01T00:00:00.000+00:00",
+        "percentual": 2.46,
+        "taxaCorrecao": 1.0246,
+        "type": 2
+    },
+    {
+        "id": 106,
+        "data": "1995-08-01T00:00:00.000+00:00",
+        "percentual": 1.02,
+        "taxaCorrecao": 1.0102,
+        "type": 2
+    },
+    {
+        "id": 107,
+        "data": "1995-09-01T00:00:00.000+00:00",
+        "percentual": 1.17,
+        "taxaCorrecao": 1.0117,
+        "type": 2
+    },
+    {
+        "id": 108,
+        "data": "1995-10-01T00:00:00.000+00:00",
+        "percentual": 1.4,
+        "taxaCorrecao": 1.014,
+        "type": 2
+    },
+    {
+        "id": 109,
+        "data": "1995-11-01T00:00:00.000+00:00",
+        "percentual": 1.51,
+        "taxaCorrecao": 1.0151,
+        "type": 2
+    },
+    {
+        "id": 110,
+        "data": "1995-12-01T00:00:00.000+00:00",
+        "percentual": 1.65,
+        "taxaCorrecao": 1.0165,
+        "type": 2
+    },
+    {
+        "id": 111,
+        "data": "1996-01-01T00:00:00.000+00:00",
+        "percentual": 1.46,
+        "taxaCorrecao": 1.0146,
+        "type": 2
+    },
+    {
+        "id": 112,
+        "data": "1996-02-01T00:00:00.000+00:00",
+        "percentual": 0.71,
+        "taxaCorrecao": 1.0071,
+        "type": 2
+    },
+    {
+        "id": 113,
+        "data": "1996-03-01T00:00:00.000+00:00",
+        "percentual": 0.29,
+        "taxaCorrecao": 1.0029,
+        "type": 2
+    },
+    {
+        "id": 114,
+        "data": "1996-04-01T00:00:00.000+00:00",
+        "percentual": 0.93,
+        "taxaCorrecao": 1.0093,
+        "type": 2
+    },
+    {
+        "id": 115,
+        "data": "1996-05-01T00:00:00.000+00:00",
+        "percentual": 1.68,
+        "taxaCorrecao": 1.0168,
+        "type": 2
+    },
+    {
+        "id": 116,
+        "data": "1996-06-01T00:00:00.000+00:00",
+        "percentual": 1.22,
+        "taxaCorrecao": 1.0122,
+        "type": 2
+    },
+    {
+        "id": 117,
+        "data": "1996-07-01T00:00:00.000+00:00",
+        "percentual": 1.09,
+        "taxaCorrecao": 1.0109,
+        "type": 2
+    },
+    {
+        "id": 118,
+        "data": "1996-08-01T00:00:00.000+00:00",
+        "percentual": 0.0,
+        "taxaCorrecao": 1.0,
+        "type": 2
+    },
+    {
+        "id": 119,
+        "data": "1996-09-01T00:00:00.000+00:00",
+        "percentual": 0.13,
+        "taxaCorrecao": 1.0013,
+        "type": 2
+    },
+    {
+        "id": 120,
+        "data": "1996-10-01T00:00:00.000+00:00",
+        "percentual": 0.22,
+        "taxaCorrecao": 1.0022,
+        "type": 2
+    },
+    {
+        "id": 121,
+        "data": "1996-11-01T00:00:00.000+00:00",
+        "percentual": 0.28,
+        "taxaCorrecao": 1.0028,
+        "type": 2
+    },
+    {
+        "id": 122,
+        "data": "1996-12-01T00:00:00.000+00:00",
+        "percentual": 0.88,
+        "taxaCorrecao": 1.0088,
+        "type": 2
+    },
+    {
+        "id": 123,
+        "data": "1997-01-01T00:00:00.000+00:00",
+        "percentual": 1.58,
+        "taxaCorrecao": 1.0158,
+        "type": 2
+    },
+    {
+        "id": 124,
+        "data": "1997-02-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 125,
+        "data": "1997-03-01T00:00:00.000+00:00",
+        "percentual": 1.16,
+        "taxaCorrecao": 1.0116,
+        "type": 2
+    },
+    {
+        "id": 126,
+        "data": "1997-04-01T00:00:00.000+00:00",
+        "percentual": 0.59,
+        "taxaCorrecao": 1.0059,
+        "type": 2
+    },
+    {
+        "id": 127,
+        "data": "1997-05-01T00:00:00.000+00:00",
+        "percentual": 0.3,
+        "taxaCorrecao": 1.003,
+        "type": 2
+    },
+    {
+        "id": 128,
+        "data": "1997-06-01T00:00:00.000+00:00",
+        "percentual": 0.7,
+        "taxaCorrecao": 1.007,
+        "type": 2
+    },
+    {
+        "id": 129,
+        "data": "1997-07-01T00:00:00.000+00:00",
+        "percentual": 0.09,
+        "taxaCorrecao": 1.0009,
+        "type": 2
+    },
+    {
+        "id": 130,
+        "data": "1997-08-01T00:00:00.000+00:00",
+        "percentual": -0.04,
+        "taxaCorrecao": 0.9996,
+        "type": 2
+    },
+    {
+        "id": 131,
+        "data": "1997-09-01T00:00:00.000+00:00",
+        "percentual": 0.59,
+        "taxaCorrecao": 1.0059,
+        "type": 2
+    },
+    {
+        "id": 132,
+        "data": "1997-10-01T00:00:00.000+00:00",
+        "percentual": 0.34,
+        "taxaCorrecao": 1.0034,
+        "type": 2
+    },
+    {
+        "id": 133,
+        "data": "1997-11-01T00:00:00.000+00:00",
+        "percentual": 0.83,
+        "taxaCorrecao": 1.0083,
+        "type": 2
+    },
+    {
+        "id": 134,
+        "data": "1997-12-01T00:00:00.000+00:00",
+        "percentual": 0.69,
+        "taxaCorrecao": 1.0069,
+        "type": 2
+    },
+    {
+        "id": 135,
+        "data": "1998-01-01T00:00:00.000+00:00",
+        "percentual": 0.88,
+        "taxaCorrecao": 1.0088,
+        "type": 2
+    },
+    {
+        "id": 136,
+        "data": "1998-02-01T00:00:00.000+00:00",
+        "percentual": 0.02,
+        "taxaCorrecao": 1.0002,
+        "type": 2
+    },
+    {
+        "id": 137,
+        "data": "1998-03-01T00:00:00.000+00:00",
+        "percentual": 0.23,
+        "taxaCorrecao": 1.0023,
+        "type": 2
+    },
+    {
+        "id": 138,
+        "data": "1998-04-01T00:00:00.000+00:00",
+        "percentual": -0.13,
+        "taxaCorrecao": 0.9987,
+        "type": 2
+    },
+    {
+        "id": 139,
+        "data": "1998-05-01T00:00:00.000+00:00",
+        "percentual": 0.23,
+        "taxaCorrecao": 1.0023,
+        "type": 2
+    },
+    {
+        "id": 140,
+        "data": "1998-06-01T00:00:00.000+00:00",
+        "percentual": 0.28,
+        "taxaCorrecao": 1.0028,
+        "type": 2
+    },
+    {
+        "id": 141,
+        "data": "1998-07-01T00:00:00.000+00:00",
+        "percentual": -0.38,
+        "taxaCorrecao": 0.9962,
+        "type": 2
+    },
+    {
+        "id": 142,
+        "data": "1998-08-01T00:00:00.000+00:00",
+        "percentual": -0.17,
+        "taxaCorrecao": 0.9983,
+        "type": 2
+    },
+    {
+        "id": 143,
+        "data": "1998-09-01T00:00:00.000+00:00",
+        "percentual": -0.02,
+        "taxaCorrecao": 0.9998,
+        "type": 2
+    },
+    {
+        "id": 144,
+        "data": "1998-10-01T00:00:00.000+00:00",
+        "percentual": -0.03,
+        "taxaCorrecao": 0.9997,
+        "type": 2
+    },
+    {
+        "id": 145,
+        "data": "1998-11-01T00:00:00.000+00:00",
+        "percentual": -0.18,
+        "taxaCorrecao": 0.9982,
+        "type": 2
+    },
+    {
+        "id": 146,
+        "data": "1998-12-01T00:00:00.000+00:00",
+        "percentual": 0.98,
+        "taxaCorrecao": 1.0098,
+        "type": 2
+    },
+    {
+        "id": 147,
+        "data": "1999-01-01T00:00:00.000+00:00",
+        "percentual": 1.15,
+        "taxaCorrecao": 1.0115,
+        "type": 2
+    },
+    {
+        "id": 148,
+        "data": "1999-02-01T00:00:00.000+00:00",
+        "percentual": 4.44,
+        "taxaCorrecao": 1.0444,
+        "type": 2
+    },
+    {
+        "id": 149,
+        "data": "1999-03-01T00:00:00.000+00:00",
+        "percentual": 1.98,
+        "taxaCorrecao": 1.0198,
+        "type": 2
+    },
+    {
+        "id": 150,
+        "data": "1999-04-01T00:00:00.000+00:00",
+        "percentual": 0.03,
+        "taxaCorrecao": 1.0003,
+        "type": 2
+    },
+    {
+        "id": 151,
+        "data": "1999-05-01T00:00:00.000+00:00",
+        "percentual": -0.34,
+        "taxaCorrecao": 0.9966,
+        "type": 2
+    },
+    {
+        "id": 152,
+        "data": "1999-06-01T00:00:00.000+00:00",
+        "percentual": 1.02,
+        "taxaCorrecao": 1.0102,
+        "type": 2
+    },
+    {
+        "id": 153,
+        "data": "1999-07-01T00:00:00.000+00:00",
+        "percentual": 1.59,
+        "taxaCorrecao": 1.0159,
+        "type": 2
+    },
+    {
+        "id": 154,
+        "data": "1999-08-01T00:00:00.000+00:00",
+        "percentual": 1.45,
+        "taxaCorrecao": 1.0145,
+        "type": 2
+    },
+    {
+        "id": 155,
+        "data": "1999-09-01T00:00:00.000+00:00",
+        "percentual": 1.47,
+        "taxaCorrecao": 1.0147,
+        "type": 2
+    },
+    {
+        "id": 156,
+        "data": "1999-10-01T00:00:00.000+00:00",
+        "percentual": 1.89,
+        "taxaCorrecao": 1.0189,
+        "type": 2
+    },
+    {
+        "id": 157,
+        "data": "1999-11-01T00:00:00.000+00:00",
+        "percentual": 2.53,
+        "taxaCorrecao": 1.0253,
+        "type": 2
+    },
+    {
+        "id": 158,
+        "data": "1999-12-01T00:00:00.000+00:00",
+        "percentual": 1.23,
+        "taxaCorrecao": 1.0123,
+        "type": 2
+    },
+    {
+        "id": 159,
+        "data": "2000-01-01T00:00:00.000+00:00",
+        "percentual": 1.02,
+        "taxaCorrecao": 1.0102,
+        "type": 2
+    },
+    {
+        "id": 160,
+        "data": "2000-02-01T00:00:00.000+00:00",
+        "percentual": 0.19,
+        "taxaCorrecao": 1.0019,
+        "type": 2
+    },
+    {
+        "id": 161,
+        "data": "2000-03-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 162,
+        "data": "2000-04-01T00:00:00.000+00:00",
+        "percentual": 0.13,
+        "taxaCorrecao": 1.0013,
+        "type": 2
+    },
+    {
+        "id": 163,
+        "data": "2000-05-01T00:00:00.000+00:00",
+        "percentual": 0.67,
+        "taxaCorrecao": 1.0067,
+        "type": 2
+    },
+    {
+        "id": 164,
+        "data": "2000-06-01T00:00:00.000+00:00",
+        "percentual": 0.93,
+        "taxaCorrecao": 1.0093,
+        "type": 2
+    },
+    {
+        "id": 165,
+        "data": "2000-07-01T00:00:00.000+00:00",
+        "percentual": 2.26,
+        "taxaCorrecao": 1.0226,
+        "type": 2
+    },
+    {
+        "id": 166,
+        "data": "2000-08-01T00:00:00.000+00:00",
+        "percentual": 1.82,
+        "taxaCorrecao": 1.0182,
+        "type": 2
+    },
+    {
+        "id": 167,
+        "data": "2000-09-01T00:00:00.000+00:00",
+        "percentual": 0.69,
+        "taxaCorrecao": 1.0069,
+        "type": 2
+    },
+    {
+        "id": 168,
+        "data": "2000-10-01T00:00:00.000+00:00",
+        "percentual": 0.37,
+        "taxaCorrecao": 1.0037,
+        "type": 2
+    },
+    {
+        "id": 169,
+        "data": "2000-11-01T00:00:00.000+00:00",
+        "percentual": 0.39,
+        "taxaCorrecao": 1.0039,
+        "type": 2
+    },
+    {
+        "id": 170,
+        "data": "2000-12-01T00:00:00.000+00:00",
+        "percentual": 0.76,
+        "taxaCorrecao": 1.0076,
+        "type": 2
+    },
+    {
+        "id": 171,
+        "data": "2001-01-01T00:00:00.000+00:00",
+        "percentual": 0.49,
+        "taxaCorrecao": 1.0049,
+        "type": 2
+    },
+    {
+        "id": 172,
+        "data": "2001-02-01T00:00:00.000+00:00",
+        "percentual": 0.34,
+        "taxaCorrecao": 1.0034,
+        "type": 2
+    },
+    {
+        "id": 173,
+        "data": "2001-03-01T00:00:00.000+00:00",
+        "percentual": 0.8,
+        "taxaCorrecao": 1.008,
+        "type": 2
+    },
+    {
+        "id": 174,
+        "data": "2001-04-01T00:00:00.000+00:00",
+        "percentual": 1.13,
+        "taxaCorrecao": 1.0113,
+        "type": 2
+    },
+    {
+        "id": 175,
+        "data": "2001-05-01T00:00:00.000+00:00",
+        "percentual": 0.44,
+        "taxaCorrecao": 1.0044,
+        "type": 2
+    },
+    {
+        "id": 176,
+        "data": "2001-06-01T00:00:00.000+00:00",
+        "percentual": 1.46,
+        "taxaCorrecao": 1.0146,
+        "type": 2
+    },
+    {
+        "id": 177,
+        "data": "2001-07-01T00:00:00.000+00:00",
+        "percentual": 1.62,
+        "taxaCorrecao": 1.0162,
+        "type": 2
+    },
+    {
+        "id": 178,
+        "data": "2001-08-01T00:00:00.000+00:00",
+        "percentual": 0.9,
+        "taxaCorrecao": 1.009,
+        "type": 2
+    },
+    {
+        "id": 179,
+        "data": "2001-09-01T00:00:00.000+00:00",
+        "percentual": 0.38,
+        "taxaCorrecao": 1.0038,
+        "type": 2
+    },
+    {
+        "id": 180,
+        "data": "2001-10-01T00:00:00.000+00:00",
+        "percentual": 1.45,
+        "taxaCorrecao": 1.0145,
+        "type": 2
+    },
+    {
+        "id": 181,
+        "data": "2001-11-01T00:00:00.000+00:00",
+        "percentual": 0.76,
+        "taxaCorrecao": 1.0076,
+        "type": 2
+    },
+    {
+        "id": 182,
+        "data": "2001-12-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 183,
+        "data": "2002-01-01T00:00:00.000+00:00",
+        "percentual": 0.19,
+        "taxaCorrecao": 1.0019,
+        "type": 2
+    },
+    {
+        "id": 184,
+        "data": "2002-02-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 185,
+        "data": "2002-03-01T00:00:00.000+00:00",
+        "percentual": 0.11,
+        "taxaCorrecao": 1.0011,
+        "type": 2
+    },
+    {
+        "id": 186,
+        "data": "2002-04-01T00:00:00.000+00:00",
+        "percentual": 0.7,
+        "taxaCorrecao": 1.007,
+        "type": 2
+    },
+    {
+        "id": 187,
+        "data": "2002-05-01T00:00:00.000+00:00",
+        "percentual": 1.11,
+        "taxaCorrecao": 1.0111,
+        "type": 2
+    },
+    {
+        "id": 188,
+        "data": "2002-06-01T00:00:00.000+00:00",
+        "percentual": 1.74,
+        "taxaCorrecao": 1.0174,
+        "type": 2
+    },
+    {
+        "id": 189,
+        "data": "2002-07-01T00:00:00.000+00:00",
+        "percentual": 2.05,
+        "taxaCorrecao": 1.0205,
+        "type": 2
+    },
+    {
+        "id": 190,
+        "data": "2002-08-01T00:00:00.000+00:00",
+        "percentual": 2.36,
+        "taxaCorrecao": 1.0236,
+        "type": 2
+    },
+    {
+        "id": 191,
+        "data": "2002-09-01T00:00:00.000+00:00",
+        "percentual": 2.64,
+        "taxaCorrecao": 1.0264,
+        "type": 2
+    },
+    {
+        "id": 192,
+        "data": "2002-10-01T00:00:00.000+00:00",
+        "percentual": 4.21,
+        "taxaCorrecao": 1.0421,
+        "type": 2
+    },
+    {
+        "id": 193,
+        "data": "2002-11-01T00:00:00.000+00:00",
+        "percentual": 5.84,
+        "taxaCorrecao": 1.0584,
+        "type": 2
+    },
+    {
+        "id": 194,
+        "data": "2002-12-01T00:00:00.000+00:00",
+        "percentual": 2.7,
+        "taxaCorrecao": 1.027,
+        "type": 2
+    },
+    {
+        "id": 195,
+        "data": "2003-01-01T00:00:00.000+00:00",
+        "percentual": 2.17,
+        "taxaCorrecao": 1.0217,
+        "type": 2
+    },
+    {
+        "id": 196,
+        "data": "2003-02-01T00:00:00.000+00:00",
+        "percentual": 1.59,
+        "taxaCorrecao": 1.0159,
+        "type": 2
+    },
+    {
+        "id": 197,
+        "data": "2003-03-01T00:00:00.000+00:00",
+        "percentual": 1.66,
+        "taxaCorrecao": 1.0166,
+        "type": 2
+    },
+    {
+        "id": 198,
+        "data": "2003-04-01T00:00:00.000+00:00",
+        "percentual": 0.41,
+        "taxaCorrecao": 1.0041,
+        "type": 2
+    },
+    {
+        "id": 199,
+        "data": "2003-05-01T00:00:00.000+00:00",
+        "percentual": -0.67,
+        "taxaCorrecao": 0.9933,
+        "type": 2
+    },
+    {
+        "id": 200,
+        "data": "2003-06-01T00:00:00.000+00:00",
+        "percentual": -0.7,
+        "taxaCorrecao": 0.993,
+        "type": 2
+    },
+    {
+        "id": 201,
+        "data": "2003-07-01T00:00:00.000+00:00",
+        "percentual": -0.2,
+        "taxaCorrecao": 0.998,
+        "type": 2
+    },
+    {
+        "id": 202,
+        "data": "2003-08-01T00:00:00.000+00:00",
+        "percentual": 0.62,
+        "taxaCorrecao": 1.0062,
+        "type": 2
+    },
+    {
+        "id": 203,
+        "data": "2003-09-01T00:00:00.000+00:00",
+        "percentual": 1.05,
+        "taxaCorrecao": 1.0105,
+        "type": 2
+    },
+    {
+        "id": 204,
+        "data": "2003-10-01T00:00:00.000+00:00",
+        "percentual": 0.44,
+        "taxaCorrecao": 1.0044,
+        "type": 2
+    },
+    {
+        "id": 205,
+        "data": "2003-11-01T00:00:00.000+00:00",
+        "percentual": 0.48,
+        "taxaCorrecao": 1.0048,
+        "type": 2
+    },
+    {
+        "id": 206,
+        "data": "2003-12-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 207,
+        "data": "2004-01-01T00:00:00.000+00:00",
+        "percentual": 0.8,
+        "taxaCorrecao": 1.008,
+        "type": 2
+    },
+    {
+        "id": 208,
+        "data": "2004-02-01T00:00:00.000+00:00",
+        "percentual": 1.08,
+        "taxaCorrecao": 1.0108,
+        "type": 2
+    },
+    {
+        "id": 209,
+        "data": "2004-03-01T00:00:00.000+00:00",
+        "percentual": 0.93,
+        "taxaCorrecao": 1.0093,
+        "type": 2
+    },
+    {
+        "id": 210,
+        "data": "2004-04-01T00:00:00.000+00:00",
+        "percentual": 1.15,
+        "taxaCorrecao": 1.0115,
+        "type": 2
+    },
+    {
+        "id": 211,
+        "data": "2004-05-01T00:00:00.000+00:00",
+        "percentual": 1.46,
+        "taxaCorrecao": 1.0146,
+        "type": 2
+    },
+    {
+        "id": 212,
+        "data": "2004-06-01T00:00:00.000+00:00",
+        "percentual": 1.29,
+        "taxaCorrecao": 1.0129,
+        "type": 2
+    },
+    {
+        "id": 213,
+        "data": "2004-07-01T00:00:00.000+00:00",
+        "percentual": 1.14,
+        "taxaCorrecao": 1.0114,
+        "type": 2
+    },
+    {
+        "id": 214,
+        "data": "2004-08-01T00:00:00.000+00:00",
+        "percentual": 1.31,
+        "taxaCorrecao": 1.0131,
+        "type": 2
+    },
+    {
+        "id": 215,
+        "data": "2004-09-01T00:00:00.000+00:00",
+        "percentual": 0.48,
+        "taxaCorrecao": 1.0048,
+        "type": 2
+    },
+    {
+        "id": 216,
+        "data": "2004-10-01T00:00:00.000+00:00",
+        "percentual": 0.53,
+        "taxaCorrecao": 1.0053,
+        "type": 2
+    },
+    {
+        "id": 217,
+        "data": "2004-11-01T00:00:00.000+00:00",
+        "percentual": 0.82,
+        "taxaCorrecao": 1.0082,
+        "type": 2
+    },
+    {
+        "id": 218,
+        "data": "2004-12-01T00:00:00.000+00:00",
+        "percentual": 0.52,
+        "taxaCorrecao": 1.0052,
+        "type": 2
+    },
+    {
+        "id": 219,
+        "data": "2005-01-01T00:00:00.000+00:00",
+        "percentual": 0.33,
+        "taxaCorrecao": 1.0033,
+        "type": 2
+    },
+    {
+        "id": 220,
+        "data": "2005-02-01T00:00:00.000+00:00",
+        "percentual": 0.4,
+        "taxaCorrecao": 1.004,
+        "type": 2
+    },
+    {
+        "id": 221,
+        "data": "2005-03-01T00:00:00.000+00:00",
+        "percentual": 0.99,
+        "taxaCorrecao": 1.0099,
+        "type": 2
+    },
+    {
+        "id": 222,
+        "data": "2005-04-01T00:00:00.000+00:00",
+        "percentual": 0.51,
+        "taxaCorrecao": 1.0051,
+        "type": 2
+    },
+    {
+        "id": 223,
+        "data": "2005-05-01T00:00:00.000+00:00",
+        "percentual": -0.25,
+        "taxaCorrecao": 0.9975,
+        "type": 2
+    },
+    {
+        "id": 224,
+        "data": "2005-06-01T00:00:00.000+00:00",
+        "percentual": -0.45,
+        "taxaCorrecao": 0.9955,
+        "type": 2
+    },
+    {
+        "id": 225,
+        "data": "2005-07-01T00:00:00.000+00:00",
+        "percentual": -0.4,
+        "taxaCorrecao": 0.996,
+        "type": 2
+    },
+    {
+        "id": 226,
+        "data": "2005-08-01T00:00:00.000+00:00",
+        "percentual": -0.79,
+        "taxaCorrecao": 0.9921,
+        "type": 2
+    },
+    {
+        "id": 227,
+        "data": "2005-09-01T00:00:00.000+00:00",
+        "percentual": -0.13,
+        "taxaCorrecao": 0.9987,
+        "type": 2
+    },
+    {
+        "id": 228,
+        "data": "2005-10-01T00:00:00.000+00:00",
+        "percentual": 0.63,
+        "taxaCorrecao": 1.0063,
+        "type": 2
+    },
+    {
+        "id": 229,
+        "data": "2005-11-01T00:00:00.000+00:00",
+        "percentual": 0.33,
+        "taxaCorrecao": 1.0033,
+        "type": 2
+    },
+    {
+        "id": 230,
+        "data": "2005-12-01T00:00:00.000+00:00",
+        "percentual": 0.07,
+        "taxaCorrecao": 1.0007,
+        "type": 2
+    },
+    {
+        "id": 231,
+        "data": "2006-01-01T00:00:00.000+00:00",
+        "percentual": 0.72,
+        "taxaCorrecao": 1.0072,
+        "type": 2
+    },
+    {
+        "id": 232,
+        "data": "2006-02-01T00:00:00.000+00:00",
+        "percentual": -0.06,
+        "taxaCorrecao": 0.9994,
+        "type": 2
+    },
+    {
+        "id": 233,
+        "data": "2006-03-01T00:00:00.000+00:00",
+        "percentual": -0.45,
+        "taxaCorrecao": 0.9955,
+        "type": 2
+    },
+    {
+        "id": 234,
+        "data": "2006-04-01T00:00:00.000+00:00",
+        "percentual": 0.02,
+        "taxaCorrecao": 1.0002,
+        "type": 2
+    },
+    {
+        "id": 235,
+        "data": "2006-05-01T00:00:00.000+00:00",
+        "percentual": 0.38,
+        "taxaCorrecao": 1.0038,
+        "type": 2
+    },
+    {
+        "id": 236,
+        "data": "2006-06-01T00:00:00.000+00:00",
+        "percentual": 0.67,
+        "taxaCorrecao": 1.0067,
+        "type": 2
+    },
+    {
+        "id": 237,
+        "data": "2006-07-01T00:00:00.000+00:00",
+        "percentual": 0.17,
+        "taxaCorrecao": 1.0017,
+        "type": 2
+    },
+    {
+        "id": 238,
+        "data": "2006-08-01T00:00:00.000+00:00",
+        "percentual": 0.41,
+        "taxaCorrecao": 1.0041,
+        "type": 2
+    },
+    {
+        "id": 239,
+        "data": "2006-09-01T00:00:00.000+00:00",
+        "percentual": 0.16,
+        "taxaCorrecao": 1.0016,
+        "type": 2
+    },
+    {
+        "id": 240,
+        "data": "2006-10-01T00:00:00.000+00:00",
+        "percentual": 0.43,
+        "taxaCorrecao": 1.0043,
+        "type": 2
+    },
+    {
+        "id": 241,
+        "data": "2006-11-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 242,
+        "data": "2006-12-01T00:00:00.000+00:00",
+        "percentual": 0.62,
+        "taxaCorrecao": 1.0062,
+        "type": 2
+    },
+    {
+        "id": 243,
+        "data": "2007-01-01T00:00:00.000+00:00",
+        "percentual": 0.49,
+        "taxaCorrecao": 1.0049,
+        "type": 2
+    },
+    {
+        "id": 244,
+        "data": "2007-02-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 245,
+        "data": "2007-03-01T00:00:00.000+00:00",
+        "percentual": 0.44,
+        "taxaCorrecao": 1.0044,
+        "type": 2
+    },
+    {
+        "id": 246,
+        "data": "2007-04-01T00:00:00.000+00:00",
+        "percentual": 0.26,
+        "taxaCorrecao": 1.0026,
+        "type": 2
+    },
+    {
+        "id": 247,
+        "data": "2007-05-01T00:00:00.000+00:00",
+        "percentual": 0.26,
+        "taxaCorrecao": 1.0026,
+        "type": 2
+    },
+    {
+        "id": 248,
+        "data": "2007-06-01T00:00:00.000+00:00",
+        "percentual": 0.31,
+        "taxaCorrecao": 1.0031,
+        "type": 2
+    },
+    {
+        "id": 249,
+        "data": "2007-07-01T00:00:00.000+00:00",
+        "percentual": 0.32,
+        "taxaCorrecao": 1.0032,
+        "type": 2
+    },
+    {
+        "id": 250,
+        "data": "2007-08-01T00:00:00.000+00:00",
+        "percentual": 0.59,
+        "taxaCorrecao": 1.0059,
+        "type": 2
+    },
+    {
+        "id": 251,
+        "data": "2007-09-01T00:00:00.000+00:00",
+        "percentual": 0.25,
+        "taxaCorrecao": 1.0025,
+        "type": 2
+    },
+    {
+        "id": 252,
+        "data": "2007-10-01T00:00:00.000+00:00",
+        "percentual": 0.3,
+        "taxaCorrecao": 1.003,
+        "type": 2
+    },
+    {
+        "id": 253,
+        "data": "2007-11-01T00:00:00.000+00:00",
+        "percentual": 0.43,
+        "taxaCorrecao": 1.0043,
+        "type": 2
+    },
+    {
+        "id": 254,
+        "data": "2007-12-01T00:00:00.000+00:00",
+        "percentual": 0.97,
+        "taxaCorrecao": 1.0097,
+        "type": 2
+    },
+    {
+        "id": 255,
+        "data": "2008-01-01T00:00:00.000+00:00",
+        "percentual": 0.69,
+        "taxaCorrecao": 1.0069,
+        "type": 2
+    },
+    {
+        "id": 256,
+        "data": "2008-02-01T00:00:00.000+00:00",
+        "percentual": 0.48,
+        "taxaCorrecao": 1.0048,
+        "type": 2
+    },
+    {
+        "id": 257,
+        "data": "2008-03-01T00:00:00.000+00:00",
+        "percentual": 0.51,
+        "taxaCorrecao": 1.0051,
+        "type": 2
+    },
+    {
+        "id": 258,
+        "data": "2008-04-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 259,
+        "data": "2008-05-01T00:00:00.000+00:00",
+        "percentual": 0.96,
+        "taxaCorrecao": 1.0096,
+        "type": 2
+    },
+    {
+        "id": 260,
+        "data": "2008-06-01T00:00:00.000+00:00",
+        "percentual": 0.91,
+        "taxaCorrecao": 1.0091,
+        "type": 2
+    },
+    {
+        "id": 261,
+        "data": "2008-07-01T00:00:00.000+00:00",
+        "percentual": 0.58,
+        "taxaCorrecao": 1.0058,
+        "type": 2
+    },
+    {
+        "id": 262,
+        "data": "2008-08-01T00:00:00.000+00:00",
+        "percentual": 0.21,
+        "taxaCorrecao": 1.0021,
+        "type": 2
+    },
+    {
+        "id": 263,
+        "data": "2008-09-01T00:00:00.000+00:00",
+        "percentual": 0.15,
+        "taxaCorrecao": 1.0015,
+        "type": 2
+    },
+    {
+        "id": 264,
+        "data": "2008-10-01T00:00:00.000+00:00",
+        "percentual": 0.5,
+        "taxaCorrecao": 1.005,
+        "type": 2
+    },
+    {
+        "id": 265,
+        "data": "2008-11-01T00:00:00.000+00:00",
+        "percentual": 0.38,
+        "taxaCorrecao": 1.0038,
+        "type": 2
+    },
+    {
+        "id": 266,
+        "data": "2008-12-01T00:00:00.000+00:00",
+        "percentual": 0.29,
+        "taxaCorrecao": 1.0029,
+        "type": 2
+    },
+    {
+        "id": 267,
+        "data": "2009-01-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 268,
+        "data": "2009-02-01T00:00:00.000+00:00",
+        "percentual": 0.31,
+        "taxaCorrecao": 1.0031,
+        "type": 2
+    },
+    {
+        "id": 269,
+        "data": "2009-03-01T00:00:00.000+00:00",
+        "percentual": 0.2,
+        "taxaCorrecao": 1.002,
+        "type": 2
+    },
+    {
+        "id": 270,
+        "data": "2009-04-01T00:00:00.000+00:00",
+        "percentual": 0.55,
+        "taxaCorrecao": 1.0055,
+        "type": 2
+    },
+    {
+        "id": 271,
+        "data": "2009-05-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 272,
+        "data": "2009-06-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 273,
+        "data": "2009-07-01T00:00:00.000+00:00",
+        "percentual": 0.23,
+        "taxaCorrecao": 1.0023,
+        "type": 2
+    },
+    {
+        "id": 274,
+        "data": "2009-08-01T00:00:00.000+00:00",
+        "percentual": 0.08,
+        "taxaCorrecao": 1.0008,
+        "type": 2
+    },
+    {
+        "id": 275,
+        "data": "2009-09-01T00:00:00.000+00:00",
+        "percentual": 0.16,
+        "taxaCorrecao": 1.0016,
+        "type": 2
+    },
+    {
+        "id": 276,
+        "data": "2009-10-01T00:00:00.000+00:00",
+        "percentual": 0.24,
+        "taxaCorrecao": 1.0024,
+        "type": 2
+    },
+    {
+        "id": 277,
+        "data": "2009-11-01T00:00:00.000+00:00",
+        "percentual": 0.37,
+        "taxaCorrecao": 1.0037,
+        "type": 2
+    },
+    {
+        "id": 278,
+        "data": "2009-12-01T00:00:00.000+00:00",
+        "percentual": 0.24,
+        "taxaCorrecao": 1.0024,
+        "type": 2
+    },
+    {
+        "id": 279,
+        "data": "2010-01-01T00:00:00.000+00:00",
+        "percentual": 0.88,
+        "taxaCorrecao": 1.0088,
+        "type": 2
+    },
+    {
+        "id": 280,
+        "data": "2010-02-01T00:00:00.000+00:00",
+        "percentual": 0.7,
+        "taxaCorrecao": 1.007,
+        "type": 2
+    },
+    {
+        "id": 281,
+        "data": "2010-03-01T00:00:00.000+00:00",
+        "percentual": 0.71,
+        "taxaCorrecao": 1.0071,
+        "type": 2
+    },
+    {
+        "id": 282,
+        "data": "2010-04-01T00:00:00.000+00:00",
+        "percentual": 0.73,
+        "taxaCorrecao": 1.0073,
+        "type": 2
+    },
+    {
+        "id": 283,
+        "data": "2010-05-01T00:00:00.000+00:00",
+        "percentual": 0.43,
+        "taxaCorrecao": 1.0043,
+        "type": 2
+    },
+    {
+        "id": 284,
+        "data": "2010-06-01T00:00:00.000+00:00",
+        "percentual": -0.11,
+        "taxaCorrecao": 0.9989,
+        "type": 2
+    },
+    {
+        "id": 285,
+        "data": "2010-07-01T00:00:00.000+00:00",
+        "percentual": -0.07,
+        "taxaCorrecao": 0.9993,
+        "type": 2
+    },
+    {
+        "id": 286,
+        "data": "2010-08-01T00:00:00.000+00:00",
+        "percentual": -0.07,
+        "taxaCorrecao": 0.9993,
+        "type": 2
+    },
+    {
+        "id": 287,
+        "data": "2010-09-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 288,
+        "data": "2010-10-01T00:00:00.000+00:00",
+        "percentual": 0.92,
+        "taxaCorrecao": 1.0092,
+        "type": 2
+    },
+    {
+        "id": 289,
+        "data": "2010-11-01T00:00:00.000+00:00",
+        "percentual": 1.03,
+        "taxaCorrecao": 1.0103,
+        "type": 2
+    },
+    {
+        "id": 290,
+        "data": "2010-12-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 291,
+        "data": "2011-01-01T00:00:00.000+00:00",
+        "percentual": 0.94,
+        "taxaCorrecao": 1.0094,
+        "type": 2
+    },
+    {
+        "id": 292,
+        "data": "2011-02-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 293,
+        "data": "2011-03-01T00:00:00.000+00:00",
+        "percentual": 0.66,
+        "taxaCorrecao": 1.0066,
+        "type": 2
+    },
+    {
+        "id": 294,
+        "data": "2011-04-01T00:00:00.000+00:00",
+        "percentual": 0.72,
+        "taxaCorrecao": 1.0072,
+        "type": 2
+    },
+    {
+        "id": 295,
+        "data": "2011-05-01T00:00:00.000+00:00",
+        "percentual": 0.57,
+        "taxaCorrecao": 1.0057,
+        "type": 2
+    },
+    {
+        "id": 296,
+        "data": "2011-06-01T00:00:00.000+00:00",
+        "percentual": 0.22,
+        "taxaCorrecao": 1.0022,
+        "type": 2
+    },
+    {
+        "id": 297,
+        "data": "2011-07-01T00:00:00.000+00:00",
+        "percentual": 0.0,
+        "taxaCorrecao": 1.0,
+        "type": 2
+    },
+    {
+        "id": 298,
+        "data": "2011-08-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 299,
+        "data": "2011-09-01T00:00:00.000+00:00",
+        "percentual": 0.45,
+        "taxaCorrecao": 1.0045,
+        "type": 2
+    },
+    {
+        "id": 300,
+        "data": "2011-10-01T00:00:00.000+00:00",
+        "percentual": 0.32,
+        "taxaCorrecao": 1.0032,
+        "type": 2
+    },
+    {
+        "id": 301,
+        "data": "2011-11-01T00:00:00.000+00:00",
+        "percentual": 0.57,
+        "taxaCorrecao": 1.0057,
+        "type": 2
+    },
+    {
+        "id": 302,
+        "data": "2011-12-01T00:00:00.000+00:00",
+        "percentual": 0.51,
+        "taxaCorrecao": 1.0051,
+        "type": 2
+    },
+    {
+        "id": 303,
+        "data": "2012-01-01T00:00:00.000+00:00",
+        "percentual": 0.51,
+        "taxaCorrecao": 1.0051,
+        "type": 2
+    },
+    {
+        "id": 304,
+        "data": "2012-02-01T00:00:00.000+00:00",
+        "percentual": 0.39,
+        "taxaCorrecao": 1.0039,
+        "type": 2
+    },
+    {
+        "id": 305,
+        "data": "2012-03-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 306,
+        "data": "2012-04-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 307,
+        "data": "2012-05-01T00:00:00.000+00:00",
+        "percentual": 0.55,
+        "taxaCorrecao": 1.0055,
+        "type": 2
+    },
+    {
+        "id": 308,
+        "data": "2012-06-01T00:00:00.000+00:00",
+        "percentual": 0.26,
+        "taxaCorrecao": 1.0026,
+        "type": 2
+    },
+    {
+        "id": 309,
+        "data": "2012-07-01T00:00:00.000+00:00",
+        "percentual": 0.43,
+        "taxaCorrecao": 1.0043,
+        "type": 2
+    },
+    {
+        "id": 310,
+        "data": "2012-08-01T00:00:00.000+00:00",
+        "percentual": 0.45,
+        "taxaCorrecao": 1.0045,
+        "type": 2
+    },
+    {
+        "id": 311,
+        "data": "2012-09-01T00:00:00.000+00:00",
+        "percentual": 0.63,
+        "taxaCorrecao": 1.0063,
+        "type": 2
+    },
+    {
+        "id": 312,
+        "data": "2012-10-01T00:00:00.000+00:00",
+        "percentual": 0.71,
+        "taxaCorrecao": 1.0071,
+        "type": 2
+    },
+    {
+        "id": 313,
+        "data": "2012-11-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 314,
+        "data": "2012-12-01T00:00:00.000+00:00",
+        "percentual": 0.74,
+        "taxaCorrecao": 1.0074,
+        "type": 2
+    },
+    {
+        "id": 315,
+        "data": "2013-01-01T00:00:00.000+00:00",
+        "percentual": 0.92,
+        "taxaCorrecao": 1.0092,
+        "type": 2
+    },
+    {
+        "id": 316,
+        "data": "2013-02-01T00:00:00.000+00:00",
+        "percentual": 0.52,
+        "taxaCorrecao": 1.0052,
+        "type": 2
+    },
+    {
+        "id": 317,
+        "data": "2013-03-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 318,
+        "data": "2013-04-01T00:00:00.000+00:00",
+        "percentual": 0.59,
+        "taxaCorrecao": 1.0059,
+        "type": 2
+    },
+    {
+        "id": 319,
+        "data": "2013-05-01T00:00:00.000+00:00",
+        "percentual": 0.35,
+        "taxaCorrecao": 1.0035,
+        "type": 2
+    },
+    {
+        "id": 320,
+        "data": "2013-06-01T00:00:00.000+00:00",
+        "percentual": 0.28,
+        "taxaCorrecao": 1.0028,
+        "type": 2
+    },
+    {
+        "id": 321,
+        "data": "2013-07-01T00:00:00.000+00:00",
+        "percentual": -0.13,
+        "taxaCorrecao": 0.9987,
+        "type": 2
+    },
+    {
+        "id": 322,
+        "data": "2013-08-01T00:00:00.000+00:00",
+        "percentual": 0.16,
+        "taxaCorrecao": 1.0016,
+        "type": 2
+    },
+    {
+        "id": 323,
+        "data": "2013-09-01T00:00:00.000+00:00",
+        "percentual": 0.27,
+        "taxaCorrecao": 1.0027,
+        "type": 2
+    },
+    {
+        "id": 324,
+        "data": "2013-10-01T00:00:00.000+00:00",
+        "percentual": 0.61,
+        "taxaCorrecao": 1.0061,
+        "type": 2
+    },
+    {
+        "id": 325,
+        "data": "2013-11-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 326,
+        "data": "2013-12-01T00:00:00.000+00:00",
+        "percentual": 0.72,
+        "taxaCorrecao": 1.0072,
+        "type": 2
+    },
+    {
+        "id": 327,
+        "data": "2014-01-01T00:00:00.000+00:00",
+        "percentual": 0.63,
+        "taxaCorrecao": 1.0063,
+        "type": 2
+    },
+    {
+        "id": 328,
+        "data": "2014-02-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 329,
+        "data": "2014-03-01T00:00:00.000+00:00",
+        "percentual": 0.82,
+        "taxaCorrecao": 1.0082,
+        "type": 2
+    },
+    {
+        "id": 330,
+        "data": "2014-04-01T00:00:00.000+00:00",
+        "percentual": 0.78,
+        "taxaCorrecao": 1.0078,
+        "type": 2
+    },
+    {
+        "id": 331,
+        "data": "2014-05-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 332,
+        "data": "2014-06-01T00:00:00.000+00:00",
+        "percentual": 0.26,
+        "taxaCorrecao": 1.0026,
+        "type": 2
+    },
+    {
+        "id": 333,
+        "data": "2014-07-01T00:00:00.000+00:00",
+        "percentual": 0.13,
+        "taxaCorrecao": 1.0013,
+        "type": 2
+    },
+    {
+        "id": 334,
+        "data": "2014-08-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 335,
+        "data": "2014-09-01T00:00:00.000+00:00",
+        "percentual": 0.49,
+        "taxaCorrecao": 1.0049,
+        "type": 2
+    },
+    {
+        "id": 336,
+        "data": "2014-10-01T00:00:00.000+00:00",
+        "percentual": 0.38,
+        "taxaCorrecao": 1.0038,
+        "type": 2
+    },
+    {
+        "id": 337,
+        "data": "2014-11-01T00:00:00.000+00:00",
+        "percentual": 0.53,
+        "taxaCorrecao": 1.0053,
+        "type": 2
+    },
+    {
+        "id": 338,
+        "data": "2014-12-01T00:00:00.000+00:00",
+        "percentual": 0.62,
+        "taxaCorrecao": 1.0062,
+        "type": 2
+    },
+    {
+        "id": 339,
+        "data": "2015-01-01T00:00:00.000+00:00",
+        "percentual": 1.48,
+        "taxaCorrecao": 1.0148,
+        "type": 2
+    },
+    {
+        "id": 340,
+        "data": "2015-02-01T00:00:00.000+00:00",
+        "percentual": 1.16,
+        "taxaCorrecao": 1.0116,
+        "type": 2
+    },
+    {
+        "id": 341,
+        "data": "2015-03-01T00:00:00.000+00:00",
+        "percentual": 1.51,
+        "taxaCorrecao": 1.0151,
+        "type": 2
+    },
+    {
+        "id": 342,
+        "data": "2015-04-01T00:00:00.000+00:00",
+        "percentual": 0.71,
+        "taxaCorrecao": 1.0071,
+        "type": 2
+    },
+    {
+        "id": 343,
+        "data": "2015-05-01T00:00:00.000+00:00",
+        "percentual": 0.99,
+        "taxaCorrecao": 1.0099,
+        "type": 2
+    },
+    {
+        "id": 344,
+        "data": "2015-06-01T00:00:00.000+00:00",
+        "percentual": 0.77,
+        "taxaCorrecao": 1.0077,
+        "type": 2
+    },
+    {
+        "id": 345,
+        "data": "2015-07-01T00:00:00.000+00:00",
+        "percentual": 0.58,
+        "taxaCorrecao": 1.0058,
+        "type": 2
+    },
+    {
+        "id": 346,
+        "data": "2015-08-01T00:00:00.000+00:00",
+        "percentual": 0.25,
+        "taxaCorrecao": 1.0025,
+        "type": 2
+    },
+    {
+        "id": 347,
+        "data": "2015-09-01T00:00:00.000+00:00",
+        "percentual": 0.51,
+        "taxaCorrecao": 1.0051,
+        "type": 2
+    },
+    {
+        "id": 348,
+        "data": "2015-10-01T00:00:00.000+00:00",
+        "percentual": 0.77,
+        "taxaCorrecao": 1.0077,
+        "type": 2
+    },
+    {
+        "id": 349,
+        "data": "2015-11-01T00:00:00.000+00:00",
+        "percentual": 1.11,
+        "taxaCorrecao": 1.0111,
+        "type": 2
+    },
+    {
+        "id": 350,
+        "data": "2015-12-01T00:00:00.000+00:00",
+        "percentual": 0.9,
+        "taxaCorrecao": 1.009,
+        "type": 2
+    },
+    {
+        "id": 351,
+        "data": "2016-01-01T00:00:00.000+00:00",
+        "percentual": 1.51,
+        "taxaCorrecao": 1.0151,
+        "type": 2
+    },
+    {
+        "id": 352,
+        "data": "2016-02-01T00:00:00.000+00:00",
+        "percentual": 0.95,
+        "taxaCorrecao": 1.0095,
+        "type": 2
+    },
+    {
+        "id": 353,
+        "data": "2016-03-01T00:00:00.000+00:00",
+        "percentual": 0.44,
+        "taxaCorrecao": 1.0044,
+        "type": 2
+    },
+    {
+        "id": 354,
+        "data": "2016-04-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 355,
+        "data": "2016-05-01T00:00:00.000+00:00",
+        "percentual": 0.98,
+        "taxaCorrecao": 1.0098,
+        "type": 2
+    },
+    {
+        "id": 356,
+        "data": "2016-06-01T00:00:00.000+00:00",
+        "percentual": 0.47,
+        "taxaCorrecao": 1.0047,
+        "type": 2
+    },
+    {
+        "id": 357,
+        "data": "2016-07-01T00:00:00.000+00:00",
+        "percentual": 0.64,
+        "taxaCorrecao": 1.0064,
+        "type": 2
+    },
+    {
+        "id": 358,
+        "data": "2016-08-01T00:00:00.000+00:00",
+        "percentual": 0.31,
+        "taxaCorrecao": 1.0031,
+        "type": 2
+    },
+    {
+        "id": 359,
+        "data": "2016-09-01T00:00:00.000+00:00",
+        "percentual": 0.08,
+        "taxaCorrecao": 1.0008,
+        "type": 2
+    },
+    {
+        "id": 360,
+        "data": "2016-10-01T00:00:00.000+00:00",
+        "percentual": 0.17,
+        "taxaCorrecao": 1.0017,
+        "type": 2
+    },
+    {
+        "id": 361,
+        "data": "2016-11-01T00:00:00.000+00:00",
+        "percentual": 0.07,
+        "taxaCorrecao": 1.0007,
+        "type": 2
+    },
+    {
+        "id": 362,
+        "data": "2016-12-01T00:00:00.000+00:00",
+        "percentual": 0.14,
+        "taxaCorrecao": 1.0014,
+        "type": 2
+    },
+    {
+        "id": 363,
+        "data": "2017-01-01T00:00:00.000+00:00",
+        "percentual": 0.42,
+        "taxaCorrecao": 1.0042,
+        "type": 2
+    },
+    {
+        "id": 364,
+        "data": "2017-02-01T00:00:00.000+00:00",
+        "percentual": 0.24,
+        "taxaCorrecao": 1.0024,
+        "type": 2
+    },
+    {
+        "id": 365,
+        "data": "2017-03-01T00:00:00.000+00:00",
+        "percentual": 0.32,
+        "taxaCorrecao": 1.0032,
+        "type": 2
+    },
+    {
+        "id": 366,
+        "data": "2017-04-01T00:00:00.000+00:00",
+        "percentual": 0.08,
+        "taxaCorrecao": 1.0008,
+        "type": 2
+    },
+    {
+        "id": 367,
+        "data": "2017-05-01T00:00:00.000+00:00",
+        "percentual": 0.36,
+        "taxaCorrecao": 1.0036,
+        "type": 2
+    },
+    {
+        "id": 368,
+        "data": "2017-06-01T00:00:00.000+00:00",
+        "percentual": -0.3,
+        "taxaCorrecao": 0.997,
+        "type": 2
+    },
+    {
+        "id": 369,
+        "data": "2017-07-01T00:00:00.000+00:00",
+        "percentual": 0.17,
+        "taxaCorrecao": 1.0017,
+        "type": 2
+    },
+    {
+        "id": 370,
+        "data": "2017-08-01T00:00:00.000+00:00",
+        "percentual": -0.03,
+        "taxaCorrecao": 0.9997,
+        "type": 2
+    },
+    {
+        "id": 371,
+        "data": "2017-09-01T00:00:00.000+00:00",
+        "percentual": -0.02,
+        "taxaCorrecao": 0.9998,
+        "type": 2
+    },
+    {
+        "id": 372,
+        "data": "2017-10-01T00:00:00.000+00:00",
+        "percentual": 0.37,
+        "taxaCorrecao": 1.0037,
+        "type": 2
+    },
+    {
+        "id": 373,
+        "data": "2017-11-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 374,
+        "data": "2017-12-01T00:00:00.000+00:00",
+        "percentual": 0.26,
+        "taxaCorrecao": 1.0026,
+        "type": 2
+    },
+    {
+        "id": 375,
+        "data": "2018-01-01T00:00:00.000+00:00",
+        "percentual": 0.23,
+        "taxaCorrecao": 1.0023,
+        "type": 2
+    },
+    {
+        "id": 376,
+        "data": "2018-02-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 377,
+        "data": "2018-03-01T00:00:00.000+00:00",
+        "percentual": 0.07,
+        "taxaCorrecao": 1.0007,
+        "type": 2
+    },
+    {
+        "id": 378,
+        "data": "2018-04-01T00:00:00.000+00:00",
+        "percentual": 0.21,
+        "taxaCorrecao": 1.0021,
+        "type": 2
+    },
+    {
+        "id": 379,
+        "data": "2018-05-01T00:00:00.000+00:00",
+        "percentual": 0.43,
+        "taxaCorrecao": 1.0043,
+        "type": 2
+    },
+    {
+        "id": 380,
+        "data": "2018-06-01T00:00:00.000+00:00",
+        "percentual": 1.43,
+        "taxaCorrecao": 1.0143,
+        "type": 2
+    },
+    {
+        "id": 381,
+        "data": "2018-07-01T00:00:00.000+00:00",
+        "percentual": 0.25,
+        "taxaCorrecao": 1.0025,
+        "type": 2
+    },
+    {
+        "id": 382,
+        "data": "2018-08-01T00:00:00.000+00:00",
+        "percentual": 0.0,
+        "taxaCorrecao": 1.0,
+        "type": 2
+    },
+    {
+        "id": 383,
+        "data": "2018-09-01T00:00:00.000+00:00",
+        "percentual": 0.3,
+        "taxaCorrecao": 1.003,
+        "type": 2
+    },
+    {
+        "id": 384,
+        "data": "2018-10-01T00:00:00.000+00:00",
+        "percentual": 0.4,
+        "taxaCorrecao": 1.004,
+        "type": 2
+    },
+    {
+        "id": 385,
+        "data": "2018-11-01T00:00:00.000+00:00",
+        "percentual": -0.25,
+        "taxaCorrecao": 0.9975,
+        "type": 2
+    },
+    {
+        "id": 386,
+        "data": "2018-12-01T00:00:00.000+00:00",
+        "percentual": 0.14,
+        "taxaCorrecao": 1.0014,
+        "type": 2
+    },
+    {
+        "id": 387,
+        "data": "2019-01-01T00:00:00.000+00:00",
+        "percentual": 0.36,
+        "taxaCorrecao": 1.0036,
+        "type": 2
+    },
+    {
+        "id": 388,
+        "data": "2019-02-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 389,
+        "data": "2019-03-01T00:00:00.000+00:00",
+        "percentual": 0.77,
+        "taxaCorrecao": 1.0077,
+        "type": 2
+    },
+    {
+        "id": 390,
+        "data": "2019-04-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 391,
+        "data": "2019-05-01T00:00:00.000+00:00",
+        "percentual": 0.15,
+        "taxaCorrecao": 1.0015,
+        "type": 2
+    },
+    {
+        "id": 392,
+        "data": "2019-06-01T00:00:00.000+00:00",
+        "percentual": 0.01,
+        "taxaCorrecao": 1.0001,
+        "type": 2
+    },
+    {
+        "id": 393,
+        "data": "2019-07-01T00:00:00.000+00:00",
+        "percentual": 0.1,
+        "taxaCorrecao": 1.001,
+        "type": 2
+    },
+    {
+        "id": 394,
+        "data": "2019-08-01T00:00:00.000+00:00",
+        "percentual": 0.12,
+        "taxaCorrecao": 1.0012,
+        "type": 2
+    },
+    {
+        "id": 395,
+        "data": "2019-09-01T00:00:00.000+00:00",
+        "percentual": -0.05,
+        "taxaCorrecao": 0.9995,
+        "type": 2
+    },
+    {
+        "id": 396,
+        "data": "2019-10-01T00:00:00.000+00:00",
+        "percentual": 0.04,
+        "taxaCorrecao": 1.0004,
+        "type": 2
+    },
+    {
+        "id": 397,
+        "data": "2019-11-01T00:00:00.000+00:00",
+        "percentual": 0.54,
+        "taxaCorrecao": 1.0054,
+        "type": 2
+    },
+    {
+        "id": 398,
+        "data": "2019-12-01T00:00:00.000+00:00",
+        "percentual": 1.22,
+        "taxaCorrecao": 1.0122,
+        "type": 2
+    },
+    {
+        "id": 399,
+        "data": "2020-01-01T00:00:00.000+00:00",
+        "percentual": 0.19,
+        "taxaCorrecao": 1.0019,
+        "type": 2
+    },
+    {
+        "id": 400,
+        "data": "2020-02-01T00:00:00.000+00:00",
+        "percentual": 0.17,
+        "taxaCorrecao": 1.0017,
+        "type": 2
+    },
+    {
+        "id": 401,
+        "data": "2020-03-01T00:00:00.000+00:00",
+        "percentual": 0.18,
+        "taxaCorrecao": 1.0018,
+        "type": 2
+    },
+    {
+        "id": 402,
+        "data": "2020-04-01T00:00:00.000+00:00",
+        "percentual": -0.23,
+        "taxaCorrecao": 0.9977,
+        "type": 2
+    },
+    {
+        "id": 403,
+        "data": "2020-05-01T00:00:00.000+00:00",
+        "percentual": -0.25,
+        "taxaCorrecao": 0.9975,
+        "type": 2
+    },
+    {
+        "id": 404,
+        "data": "2020-06-01T00:00:00.000+00:00",
+        "percentual": 0.3,
+        "taxaCorrecao": 1.003,
+        "type": 2
+    },
+    {
+        "id": 405,
+        "data": "2020-07-01T00:00:00.000+00:00",
+        "percentual": 0.44,
+        "taxaCorrecao": 1.0044,
+        "type": 2
+    },
+    {
+        "id": 406,
+        "data": "2020-08-01T00:00:00.000+00:00",
+        "percentual": 0.36,
+        "taxaCorrecao": 1.0036,
+        "type": 2
+    },
+    {
+        "id": 407,
+        "data": "2020-09-01T00:00:00.000+00:00",
+        "percentual": 0.87,
+        "taxaCorrecao": 1.0087,
+        "type": 2
+    },
+    {
+        "id": 408,
+        "data": "2020-10-01T00:00:00.000+00:00",
+        "percentual": 0.89,
+        "taxaCorrecao": 1.0089,
+        "type": 2
+    },
+    {
+        "id": 409,
+        "data": "2020-11-01T00:00:00.000+00:00",
+        "percentual": 0.95,
+        "taxaCorrecao": 1.0095,
+        "type": 2
+    },
+    {
+        "id": 410,
+        "data": "2020-12-01T00:00:00.000+00:00",
+        "percentual": 1.46,
+        "taxaCorrecao": 1.0146,
+        "type": 2
+    },
+    {
+        "id": 411,
+        "data": "2021-01-01T00:00:00.000+00:00",
+        "percentual": 0.27,
+        "taxaCorrecao": 1.0027,
+        "type": 2
+    },
+    {
+        "id": 412,
+        "data": "2021-02-01T00:00:00.000+00:00",
+        "percentual": 0.82,
+        "taxaCorrecao": 1.0082,
+        "type": 2
+    },
+    {
+        "id": 413,
+        "data": "2021-03-01T00:00:00.000+00:00",
+        "percentual": 0.86,
+        "taxaCorrecao": 1.0086,
+        "type": 2
+    },
+    {
+        "id": 414,
+        "data": "2021-04-01T00:00:00.000+00:00",
+        "percentual": 0.38,
+        "taxaCorrecao": 1.0038,
+        "type": 2
+    },
+    {
+        "id": 415,
+        "data": "2021-05-01T00:00:00.000+00:00",
+        "percentual": 0.96,
+        "taxaCorrecao": 1.0096,
+        "type": 2
+    },
+    {
+        "id": 416,
+        "data": "2021-06-01T00:00:00.000+00:00",
+        "percentual": 0.6,
+        "taxaCorrecao": 1.006,
+        "type": 2
+    },
+    {
+        "id": 417,
+        "data": "2021-07-01T00:00:00.000+00:00",
+        "percentual": 1.02,
+        "taxaCorrecao": 1.0102,
+        "type": 2
+    },
+    {
+        "id": 418,
+        "data": "2021-08-01T00:00:00.000+00:00",
+        "percentual": 0.88,
+        "taxaCorrecao": 1.0088,
+        "type": 2
+    },
+    {
+        "id": 419,
+        "data": "2021-09-01T00:00:00.000+00:00",
+        "percentual": 1.2,
+        "taxaCorrecao": 1.012,
+        "type": 2
+    },
+    {
+        "id": 420,
+        "data": "2021-10-01T00:00:00.000+00:00",
+        "percentual": 1.16,
+        "taxaCorrecao": 1.0116,
+        "type": 2
+    },
+    {
+        "id": 421,
+        "data": "2021-11-01T00:00:00.000+00:00",
+        "percentual": 0.84,
+        "taxaCorrecao": 1.0084,
+        "type": 2
+    },
+    {
+        "id": 422,
+        "data": "2021-12-01T00:00:00.000+00:00",
+        "percentual": 0.73,
+        "taxaCorrecao": 1.0073,
+        "type": 2
+    },
+    {
+        "id": 423,
+        "data": "2022-01-01T00:00:00.000+00:00",
+        "percentual": 0.67,
+        "taxaCorrecao": 1.0067,
+        "type": 2
+    },
+    {
+        "id": 424,
+        "data": "2022-02-01T00:00:00.000+00:00",
+        "percentual": 1.0,
+        "taxaCorrecao": 1.01,
+        "type": 2
+    },
+    {
+        "id": 425,
+        "data": "2022-03-01T03:00:00.000+00:00",
+        "percentual": 1.71,
+        "taxaCorrecao": 1.0171,
+        "type": 2
+    },
+    {
+        "id": 426,
+        "data": "2022-04-01T03:00:00.000+00:00",
+        "percentual": 1.04,
+        "taxaCorrecao": 1.0104,
+        "type": 2
+    },
+    {
+        "id": 427,
+        "data": "2022-05-01T03:00:00.000+00:00",
+        "percentual": 0.45,
+        "taxaCorrecao": 1.0045,
+        "type": 2
+    },
+    {
+        "id": 428,
+        "data": "2022-06-01T03:00:00.000+00:00",
+        "percentual": 0.62,
+        "taxaCorrecao": 1.0062,
+        "type": 2
+    },
+    {
+        "id": 429,
+        "data": "2022-07-01T03:00:00.000+00:00",
+        "percentual": -0.6,
+        "taxaCorrecao": 0.994,
+        "type": 2
+    },
+    {
+        "id": 430,
+        "data": "2022-08-01T03:00:00.000+00:00",
+        "percentual": -0.31,
+        "taxaCorrecao": 0.9969,
+        "type": 2
+    },
+    {
+        "id": 431,
+        "data": "2022-09-01T03:00:00.000+00:00",
+        "percentual": -0.32,
+        "taxaCorrecao": 0.9968,
+        "type": 2
+    }
+]

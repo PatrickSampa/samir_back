@@ -1,0 +1,6 @@
+{
+        "id": 88,
+        "describe": "MANUAL DE ORIENTAÇÃO DE PROCEDIMENTOS PARA CÁLCULOS NA JF - RESOLUÇÃO 267/2013 CJF:  URV ATE 06/1994, IPCR ATE 06/1995, INPC ATE 04/1996, IGPDI ATE 08/2006, INPC ATE 12/2050",
+        "type": 2,
+        "correcaos": null
+    }

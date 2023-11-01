@@ -1,0 +1,2714 @@
+[
+    {
+        "codigo": 1405,
+        "data": "1994-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 196.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1406,
+        "data": "1994-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 196.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1407,
+        "data": "1994-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 195.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1408,
+        "data": "1994-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 195.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1409,
+        "data": "1994-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 194.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1410,
+        "data": "1994-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 194.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1411,
+        "data": "1994-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 193.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1412,
+        "data": "1994-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 193.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1413,
+        "data": "1994-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 192.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1414,
+        "data": "1994-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 192.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1415,
+        "data": "1994-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 191.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1416,
+        "data": "1994-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 191.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1417,
+        "data": "1995-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 190.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1418,
+        "data": "1995-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 190.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1419,
+        "data": "1995-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 189.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1420,
+        "data": "1995-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 189.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1421,
+        "data": "1995-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 188.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1422,
+        "data": "1995-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 188.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1423,
+        "data": "1995-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 187.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1424,
+        "data": "1995-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 187.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1425,
+        "data": "1995-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 186.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1426,
+        "data": "1995-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 186.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1427,
+        "data": "1995-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 185.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1428,
+        "data": "1995-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 185.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1429,
+        "data": "1996-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 184.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1430,
+        "data": "1996-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 184.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1431,
+        "data": "1996-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 183.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1432,
+        "data": "1996-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 183.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1433,
+        "data": "1996-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 182.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1434,
+        "data": "1996-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 182.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1435,
+        "data": "1996-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 181.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1436,
+        "data": "1996-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 181.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1437,
+        "data": "1996-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 180.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1438,
+        "data": "1996-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 180.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1439,
+        "data": "1996-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 179.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1440,
+        "data": "1996-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 179.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1441,
+        "data": "1997-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 178.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1442,
+        "data": "1997-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 178.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1443,
+        "data": "1997-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 177.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1444,
+        "data": "1997-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 177.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1445,
+        "data": "1997-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 176.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1446,
+        "data": "1997-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 176.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1447,
+        "data": "1997-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 175.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1448,
+        "data": "1997-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 175.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1449,
+        "data": "1997-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 174.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1450,
+        "data": "1997-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 174.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1451,
+        "data": "1997-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 173.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1452,
+        "data": "1997-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 173.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1453,
+        "data": "1998-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 172.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1454,
+        "data": "1998-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 172.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1455,
+        "data": "1998-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 171.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1456,
+        "data": "1998-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 171.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1457,
+        "data": "1998-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 170.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1458,
+        "data": "1998-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 170.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1459,
+        "data": "1998-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 169.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1460,
+        "data": "1998-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 169.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1461,
+        "data": "1998-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 168.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1462,
+        "data": "1998-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 168.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1463,
+        "data": "1998-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 167.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1464,
+        "data": "1998-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 167.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1465,
+        "data": "1999-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 166.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1466,
+        "data": "1999-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 166.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1467,
+        "data": "1999-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 165.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1468,
+        "data": "1999-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 165.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1469,
+        "data": "1999-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 164.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1470,
+        "data": "1999-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 164.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1471,
+        "data": "1999-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 163.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1472,
+        "data": "1999-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 163.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1473,
+        "data": "1999-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 162.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1474,
+        "data": "1999-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 162.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1475,
+        "data": "1999-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 161.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1476,
+        "data": "1999-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 161.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1477,
+        "data": "2000-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 160.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1478,
+        "data": "2000-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 160.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1479,
+        "data": "2000-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 159.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1480,
+        "data": "2000-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 159.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1481,
+        "data": "2000-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 158.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1482,
+        "data": "2000-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 158.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1483,
+        "data": "2000-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 157.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1484,
+        "data": "2000-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 157.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1485,
+        "data": "2000-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 156.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1486,
+        "data": "2000-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 156.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1487,
+        "data": "2000-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 155.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1488,
+        "data": "2000-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 155.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1489,
+        "data": "2001-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 154.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1490,
+        "data": "2001-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 154.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1491,
+        "data": "2001-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 153.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1492,
+        "data": "2001-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 153.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1493,
+        "data": "2001-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 152.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1494,
+        "data": "2001-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 152.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1495,
+        "data": "2001-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 151.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1496,
+        "data": "2001-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 151.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1497,
+        "data": "2001-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 150.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1498,
+        "data": "2001-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 150.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1499,
+        "data": "2001-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 149.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1500,
+        "data": "2001-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 149.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1501,
+        "data": "2002-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 148.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1502,
+        "data": "2002-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 148.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1503,
+        "data": "2002-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 147.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1504,
+        "data": "2002-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 147.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1505,
+        "data": "2002-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 146.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1506,
+        "data": "2002-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 146.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1507,
+        "data": "2002-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 145.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1508,
+        "data": "2002-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 145.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1509,
+        "data": "2002-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 144.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1510,
+        "data": "2002-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 144.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1511,
+        "data": "2002-11-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 143.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1512,
+        "data": "2002-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 143.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1513,
+        "data": "2003-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 142.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1514,
+        "data": "2003-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 141.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1515,
+        "data": "2003-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 140.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1516,
+        "data": "2003-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 139.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1517,
+        "data": "2003-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 138.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1518,
+        "data": "2003-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 137.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1519,
+        "data": "2003-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 136.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1520,
+        "data": "2003-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 135.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1521,
+        "data": "2003-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 134.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1522,
+        "data": "2003-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 133.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1523,
+        "data": "2003-11-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 132.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1524,
+        "data": "2003-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 131.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1525,
+        "data": "2004-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 130.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1526,
+        "data": "2004-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 129.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1527,
+        "data": "2004-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 128.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1528,
+        "data": "2004-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 127.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1529,
+        "data": "2004-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 126.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1530,
+        "data": "2004-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 125.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1531,
+        "data": "2004-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 124.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1532,
+        "data": "2004-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 123.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1533,
+        "data": "2004-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 122.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1534,
+        "data": "2004-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 121.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1535,
+        "data": "2004-11-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 120.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1536,
+        "data": "2004-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 119.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1537,
+        "data": "2005-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 118.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1538,
+        "data": "2005-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 117.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1539,
+        "data": "2005-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 116.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1540,
+        "data": "2005-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 115.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1541,
+        "data": "2005-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 114.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1542,
+        "data": "2005-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 113.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1543,
+        "data": "2005-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 112.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1544,
+        "data": "2005-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 111.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1545,
+        "data": "2005-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 110.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1546,
+        "data": "2005-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 109.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1547,
+        "data": "2005-11-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 108.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1548,
+        "data": "2005-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 107.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1549,
+        "data": "2006-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 106.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1550,
+        "data": "2006-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 105.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1551,
+        "data": "2006-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 104.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1552,
+        "data": "2006-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 103.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1553,
+        "data": "2006-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 102.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1554,
+        "data": "2006-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 101.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1555,
+        "data": "2006-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 100.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1556,
+        "data": "2006-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 99.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1557,
+        "data": "2006-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 98.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1558,
+        "data": "2006-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 97.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1559,
+        "data": "2006-11-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 96.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1560,
+        "data": "2006-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 95.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1561,
+        "data": "2007-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 94.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1562,
+        "data": "2007-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 93.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1563,
+        "data": "2007-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 92.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1564,
+        "data": "2007-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 91.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1565,
+        "data": "2007-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 90.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1566,
+        "data": "2007-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 89.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1567,
+        "data": "2007-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 88.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1568,
+        "data": "2007-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 87.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1569,
+        "data": "2007-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 86.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1570,
+        "data": "2007-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 85.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1571,
+        "data": "2007-11-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 84.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1572,
+        "data": "2007-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 83.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1573,
+        "data": "2008-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 82.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1574,
+        "data": "2008-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 81.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1575,
+        "data": "2008-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 80.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1576,
+        "data": "2008-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 79.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1577,
+        "data": "2008-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 78.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1578,
+        "data": "2008-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 77.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1579,
+        "data": "2008-07-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 76.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1580,
+        "data": "2008-08-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 75.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1581,
+        "data": "2008-09-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 74.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1582,
+        "data": "2008-10-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 73.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1583,
+        "data": "2008-11-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 72.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1584,
+        "data": "2008-12-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 71.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1585,
+        "data": "2009-01-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 70.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1586,
+        "data": "2009-02-01T02:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 69.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1587,
+        "data": "2009-03-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 68.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1588,
+        "data": "2009-04-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 67.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1589,
+        "data": "2009-05-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 66.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1590,
+        "data": "2009-06-01T03:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 65.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1591,
+        "data": "2009-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 64.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1592,
+        "data": "2009-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 64.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1593,
+        "data": "2009-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 63.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1594,
+        "data": "2009-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 63.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1595,
+        "data": "2009-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 62.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1596,
+        "data": "2009-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 62.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1597,
+        "data": "2010-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 61.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1598,
+        "data": "2010-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 61.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1599,
+        "data": "2010-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 60.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1600,
+        "data": "2010-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 60.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1601,
+        "data": "2010-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 59.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1602,
+        "data": "2010-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 59.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1603,
+        "data": "2010-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 58.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1604,
+        "data": "2010-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 58.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1605,
+        "data": "2010-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 57.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1606,
+        "data": "2010-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 57.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1607,
+        "data": "2010-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 56.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1608,
+        "data": "2010-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 56.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1609,
+        "data": "2011-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 55.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1610,
+        "data": "2011-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 55.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1611,
+        "data": "2011-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 54.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1612,
+        "data": "2011-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 54.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1613,
+        "data": "2011-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 53.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1614,
+        "data": "2011-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 53.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1615,
+        "data": "2011-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 52.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1616,
+        "data": "2011-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 52.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1617,
+        "data": "2011-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 51.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1618,
+        "data": "2011-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 51.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1619,
+        "data": "2011-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 50.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1620,
+        "data": "2011-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 50.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1621,
+        "data": "2012-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 49.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1622,
+        "data": "2012-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 49.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1623,
+        "data": "2012-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 48.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1624,
+        "data": "2012-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 48.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1625,
+        "data": "2012-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 47.5944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1626,
+        "data": "2012-06-01T03:00:00.000+00:00",
+        "juros": 0.4828,
+        "jurosAcumulados": 47.0944,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1627,
+        "data": "2012-07-01T03:00:00.000+00:00",
+        "juros": 0.4829,
+        "jurosAcumulados": 46.6116,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1628,
+        "data": "2012-08-01T03:00:00.000+00:00",
+        "juros": 0.4552,
+        "jurosAcumulados": 46.1287,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1629,
+        "data": "2012-09-01T03:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 45.6735,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1630,
+        "data": "2012-10-01T03:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 45.2462,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1631,
+        "data": "2012-11-01T02:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 44.8189,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1632,
+        "data": "2012-12-01T02:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 44.4055,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1633,
+        "data": "2013-01-01T02:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 43.9921,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1634,
+        "data": "2013-02-01T02:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 43.5787,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1635,
+        "data": "2013-03-01T03:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 43.1653,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1636,
+        "data": "2013-04-01T03:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 42.7519,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1637,
+        "data": "2013-05-01T03:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 42.3385,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1638,
+        "data": "2013-06-01T03:00:00.000+00:00",
+        "juros": 0.4551,
+        "jurosAcumulados": 41.9112,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1639,
+        "data": "2013-07-01T03:00:00.000+00:00",
+        "juros": 0.4551,
+        "jurosAcumulados": 41.4561,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1640,
+        "data": "2013-08-01T03:00:00.000+00:00",
+        "juros": 0.4828,
+        "jurosAcumulados": 41.001,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1641,
+        "data": "2013-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 40.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1642,
+        "data": "2013-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 40.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1643,
+        "data": "2013-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 39.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1644,
+        "data": "2013-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 39.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1645,
+        "data": "2014-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 38.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1646,
+        "data": "2014-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 38.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1647,
+        "data": "2014-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 37.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1648,
+        "data": "2014-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 37.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1649,
+        "data": "2014-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 36.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1650,
+        "data": "2014-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 36.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1651,
+        "data": "2014-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 35.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1652,
+        "data": "2014-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 35.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1653,
+        "data": "2014-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 34.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1654,
+        "data": "2014-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 34.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1655,
+        "data": "2014-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 33.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1656,
+        "data": "2014-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 33.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1657,
+        "data": "2015-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 32.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1658,
+        "data": "2015-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 32.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1659,
+        "data": "2015-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 31.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1660,
+        "data": "2015-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 31.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1661,
+        "data": "2015-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 30.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1662,
+        "data": "2015-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 30.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1663,
+        "data": "2015-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 29.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1664,
+        "data": "2015-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 29.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1665,
+        "data": "2015-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 28.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1666,
+        "data": "2015-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 28.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1667,
+        "data": "2015-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 27.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1668,
+        "data": "2015-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 27.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1669,
+        "data": "2016-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 26.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1670,
+        "data": "2016-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 26.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1671,
+        "data": "2016-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 25.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1672,
+        "data": "2016-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 25.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1673,
+        "data": "2016-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 24.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1674,
+        "data": "2016-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 24.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1675,
+        "data": "2016-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 23.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1676,
+        "data": "2016-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 23.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1677,
+        "data": "2016-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 22.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1678,
+        "data": "2016-10-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 22.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1679,
+        "data": "2016-11-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 21.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1680,
+        "data": "2016-12-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 21.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1681,
+        "data": "2017-01-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 20.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1682,
+        "data": "2017-02-01T02:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 20.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1683,
+        "data": "2017-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 19.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1684,
+        "data": "2017-04-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 19.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1685,
+        "data": "2017-05-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 18.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1686,
+        "data": "2017-06-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 18.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1687,
+        "data": "2017-07-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 17.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1688,
+        "data": "2017-08-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 17.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1689,
+        "data": "2017-09-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 16.5182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1690,
+        "data": "2017-10-01T03:00:00.000+00:00",
+        "juros": 0.469,
+        "jurosAcumulados": 16.0182,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1691,
+        "data": "2017-11-01T02:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 15.5492,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1692,
+        "data": "2017-12-01T02:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 15.1219,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1693,
+        "data": "2018-01-01T02:00:00.000+00:00",
+        "juros": 0.3994,
+        "jurosAcumulados": 14.6946,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1694,
+        "data": "2018-02-01T02:00:00.000+00:00",
+        "juros": 0.3994,
+        "jurosAcumulados": 14.2952,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1695,
+        "data": "2018-03-01T03:00:00.000+00:00",
+        "juros": 0.3855,
+        "jurosAcumulados": 13.8958,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1696,
+        "data": "2018-04-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 13.5103,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1697,
+        "data": "2018-05-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 13.1388,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1698,
+        "data": "2018-06-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.7673,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1699,
+        "data": "2018-07-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.3958,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1700,
+        "data": "2018-08-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.0243,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1701,
+        "data": "2018-09-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 11.6528,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1702,
+        "data": "2018-10-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 11.2813,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1703,
+        "data": "2018-11-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 10.9098,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1704,
+        "data": "2018-12-01T02:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 10.5383,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1705,
+        "data": "2019-01-01T02:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 10.1668,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1706,
+        "data": "2019-02-01T02:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 9.7953,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1707,
+        "data": "2019-03-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 9.4238,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1708,
+        "data": "2019-04-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 9.0523,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1709,
+        "data": "2019-05-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 8.6808,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1710,
+        "data": "2019-06-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 8.3093,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1711,
+        "data": "2019-07-01T03:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 7.9378,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1712,
+        "data": "2019-08-01T03:00:00.000+00:00",
+        "juros": 0.3434,
+        "jurosAcumulados": 7.5663,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1713,
+        "data": "2019-09-01T03:00:00.000+00:00",
+        "juros": 0.3434,
+        "jurosAcumulados": 7.2229,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1714,
+        "data": "2019-10-01T03:00:00.000+00:00",
+        "juros": 0.3153,
+        "jurosAcumulados": 6.8795,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1715,
+        "data": "2019-11-01T03:00:00.000+00:00",
+        "juros": 0.2871,
+        "jurosAcumulados": 6.5642,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1716,
+        "data": "2019-12-01T03:00:00.000+00:00",
+        "juros": 0.2871,
+        "jurosAcumulados": 6.2771,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1717,
+        "data": "2020-01-01T03:00:00.000+00:00",
+        "juros": 0.2588,
+        "jurosAcumulados": 5.99,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1718,
+        "data": "2020-02-01T03:00:00.000+00:00",
+        "juros": 0.2588,
+        "jurosAcumulados": 5.7312,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1719,
+        "data": "2020-03-01T03:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 5.4724,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1720,
+        "data": "2020-04-01T03:00:00.000+00:00",
+        "juros": 0.2162,
+        "jurosAcumulados": 5.2278,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1721,
+        "data": "2020-05-01T03:00:00.000+00:00",
+        "juros": 0.2162,
+        "jurosAcumulados": 5.0116,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1722,
+        "data": "2020-06-01T03:00:00.000+00:00",
+        "juros": 0.1733,
+        "jurosAcumulados": 4.7954,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1723,
+        "data": "2020-07-01T03:00:00.000+00:00",
+        "juros": 0.1303,
+        "jurosAcumulados": 4.6221,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1724,
+        "data": "2020-08-01T03:00:00.000+00:00",
+        "juros": 0.1303,
+        "jurosAcumulados": 4.4918,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1725,
+        "data": "2020-09-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 4.3615,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1726,
+        "data": "2020-10-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 4.2456,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1727,
+        "data": "2020-11-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 4.1297,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1728,
+        "data": "2020-12-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 4.0138,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1729,
+        "data": "2021-01-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 3.8979,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1730,
+        "data": "2021-02-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 3.782,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1731,
+        "data": "2021-03-01T03:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 3.6661,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1732,
+        "data": "2021-04-01T03:00:00.000+00:00",
+        "juros": 0.159,
+        "jurosAcumulados": 3.5502,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1733,
+        "data": "2021-05-01T03:00:00.000+00:00",
+        "juros": 0.159,
+        "jurosAcumulados": 3.3912,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1734,
+        "data": "2021-06-01T03:00:00.000+00:00",
+        "juros": 0.2019,
+        "jurosAcumulados": 3.2322,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1735,
+        "data": "2021-07-01T03:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 3.0303,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1736,
+        "data": "2021-08-01T03:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 2.7857,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1737,
+        "data": "2021-09-01T03:00:00.000+00:00",
+        "juros": 0.3012,
+        "jurosAcumulados": 2.5411,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1738,
+        "data": "2021-10-01T03:00:00.000+00:00",
+        "juros": 0.3575,
+        "jurosAcumulados": 2.2399,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1739,
+        "data": "2021-11-01T03:00:00.000+00:00",
+        "juros": 0.4412,
+        "jurosAcumulados": 1.8824,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1740,
+        "data": "2021-12-01T03:00:00.000+00:00",
+        "juros": 0.4412,
+        "jurosAcumulados": 1.4412,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1741,
+        "data": "2022-01-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 1.0,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1742,
+        "data": "2022-02-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 0.5,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    },
+    {
+        "codigo": 1743,
+        "data": "2022-03-01T03:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 0.0,
+        "tipo": 1,
+        "descricao": "MANUAL PFE/INSS (0,5% A.M. ATE 12/2002; 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIACAO POUPANCA MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012):"
+    }
+]

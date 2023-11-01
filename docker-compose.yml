@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  app:
+    container_name: samir_calculadora
+    restart: always
+    build: .
+    depends_on:
+      - calculadora_samir_database
+    environment:
+      - spring.datasource.url=jdbc:postgresql://database:5432/samir
+      - spring.datasource.username=samir
+      - spring.datasource.password=samir
+      - spring.jpa.hibernate.ddl-auto=update
+    ports:
+      - 3004:8888
+  calculadora_samir_database:
+    container_name: samir-database
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_DB: samir
+      POSTGRES_USER: samir
+      POSTGRES_PASSWORD: samir
+    ports:
+    - 5433:5432
+    volumes:
+      - db_data:/var/lib/postgresql/samir_calculadora
+  
+
+volumes:
+  db_data:
+    driver: local

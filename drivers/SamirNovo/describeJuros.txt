@@ -1,0 +1,6 @@
+{
+        "id": 437,
+        "describe": "MANUAL DE ORIENTAÇÃO DE PROCEDIMENTOS PARA CÁLCULOS NA JF - 1% A.M. ATÉ 06/2009; 0,5% A.M. ATÉ 05/2012; APÓS VARIAÇÃO POUPANÇA (MP NUMERO 567/2012,CONVERTIDA NA LEI NUMERO  12.703, DE 07/08/2012)",
+        "type": 2,
+        "juros": []
+    }

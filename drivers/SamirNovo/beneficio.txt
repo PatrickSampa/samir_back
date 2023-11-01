@@ -1,0 +1,475 @@
+[
+    {
+        "codigo": 703,
+        "name": "1 - PENSÃO POR MORTE  DO TRABALHADOR RURAL",
+        "salario13": true,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 704,
+        "name": "7 - APOSENTADORIA POR IDADE  DO TRABALHADOR RURAL ",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 705,
+        "name": "21 - PENSÃO POR MORTE",
+        "salario13": true,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 706,
+        "name": "25 - AUXÍLIO-RECLUSÃO",
+        "salario13": true,
+        "inacumulavel": [
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 707,
+        "name": "31 - AUXÍLIO-DOENÇA",
+        "salario13": true,
+        "inacumulavel": [
+            "31 - AUXÍLIO-DOENÇA",
+            "80 - SALÁRIO-MATERNIDADE",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 708,
+        "name": "32 - APOSENTADORIA POR INVALIDEZ",
+        "salario13": true,
+        "inacumulavel": [
+            "36 - AUXÍLIO-ACIDENTE",
+            "80 - SALÁRIO-MATERNIDADE",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 709,
+        "name": "36 - AUXÍLIO-ACIDENTE",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 710,
+        "name": "41 - APOSENTADORIA POR IDADE",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 711,
+        "name": "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 712,
+        "name": "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 713,
+        "name": "46 - APOSENTADORIA ESPECIAL",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 714,
+        "name": "57 - APOSENTADORIA POR  TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 715,
+        "name": "80 - SALÁRIO-MATERNIDADE",
+        "salario13": true,
+        "inacumulavel": [
+            "80 - SALÁRIO-MATERNIDADE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 716,
+        "name": "85 - PENSÃO MENSAL VITALÍCIA DO SERINGUEIRO",
+        "salario13": false,
+        "inacumulavel": [
+            "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+            "85 - PENSAO MENSAL VITALÍCIA DO SERINGUEIRO",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": true
+    },
+    {
+        "codigo": 717,
+        "name": "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+        "salario13": false,
+        "inacumulavel": [
+            "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+            "85 - PENSAO MENSAL VITALÍCIA DO SERINGUEIRO",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": true
+    },
+    {
+        "codigo": 718,
+        "name": "87 - LOAS DEFICIENTE",
+        "salario13": false,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "25 - AUXÍLIO-RECLUSÃO",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "80 - SALÁRIO-MATERNIDADE",
+            "85 - PENSAO MENSAL VITALÍCIA DO SERINGUEIRO",
+            "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "96 - PENSÃO ESPECIAL AO PORTADOR DE HANSENÍASE",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 719,
+        "name": "88 - LOAS IDOSO",
+        "salario13": false,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "25 - AUXÍLIO-RECLUSÃO",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "80 - SALÁRIO-MATERNIDADE",
+            "85 - PENSAO MENSAL VITALÍCIA DO SERINGUEIRO",
+            "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "96 - PENSÃO ESPECIAL AO PORTADOR DE HANSENÍASE",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 720,
+        "name": "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 721,
+        "name": "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 722,
+        "name": "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO ",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 723,
+        "name": "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO ",
+        "salario13": true,
+        "inacumulavel": [
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 724,
+        "name": "XX - SEGURO-DEFESO",
+        "salario13": false,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "7 - APOSENTADORIA POR IDADE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "25 - AUXÍLIO-RECLUSÃO",
+            "57 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DE PROFESSOR",
+            "46 - APOSENTADORIA ESPECIAL",
+            "42 - APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO",
+            "36 - AUXÍLIO-ACIDENTE",
+            "32 - APOSENTADORIA POR INVALIDEZ",
+            "31 - AUXÍLIO-DOENÇA",
+            "80 - SALÁRIO-MATERNIDADE",
+            "85 - PENSAO MENSAL VITALÍCIA DO SERINGUEIRO",
+            "86 - PENSÃO MENSAL VITALÍCIA DO DEPENDENTE DO SERINGUEIRO",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "91 -AUXÍLIO-DOENÇA ACIDENTÁRIO",
+            "92 - APOSENTADORIA POR INVALIDEZ ACIDENTÁRIA",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+            "94 - AUXÍLIO-ACIDENTE POR ACIDENTE DO TRABALHO",
+            "95 - AUXÍLIO SUPLEMENTAR POR ACIDENTE DO TRABALHO",
+            "96 - PENSÃO ESPECIAL AO PORTADOR DE HANSENÍASE",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 725,
+        "name": "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+        "salario13": true,
+        "inacumulavel": [
+            "1 - PENSÃO POR MORTE DO TRABALHADOR RURAL",
+            "21 - PENSÃO POR MORTE",
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    },
+    {
+        "codigo": 726,
+        "name": "96 - PENSÃO ESPECIAL AO PORTADOR DE HANSENÍASE",
+        "salario13": true,
+        "inacumulavel": [
+            "87 - LOAS DEFICIENTE",
+            "88 - LOAS IDOSO",
+            "93 - PENSÃO POR MORTE ACIDENTÁRIA",
+            "96 - PENSÃO ESPECIAL AO PORTADOR DE HANSENÍASE",
+            "XX - SEGURO-DEFESO"
+        ],
+        "dif": false
+    }
+]

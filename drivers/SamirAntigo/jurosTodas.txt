@@ -1,0 +1,2770 @@
+[
+    {
+        "codigo": 1744,
+        "data": "1994-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 254.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1745,
+        "data": "1994-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 253.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1746,
+        "data": "1994-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 252.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1747,
+        "data": "1994-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 251.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1748,
+        "data": "1994-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 250.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1749,
+        "data": "1994-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 249.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1750,
+        "data": "1994-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 248.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1751,
+        "data": "1994-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 247.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1752,
+        "data": "1994-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 246.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1753,
+        "data": "1994-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 245.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1754,
+        "data": "1994-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 244.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1755,
+        "data": "1994-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 243.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1756,
+        "data": "1995-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 242.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1757,
+        "data": "1995-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 241.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1758,
+        "data": "1995-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 240.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1759,
+        "data": "1995-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 239.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1760,
+        "data": "1995-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 238.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1761,
+        "data": "1995-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 237.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1762,
+        "data": "1995-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 236.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1763,
+        "data": "1995-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 235.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1764,
+        "data": "1995-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 234.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1765,
+        "data": "1995-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 233.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1766,
+        "data": "1995-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 232.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1767,
+        "data": "1995-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 231.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1768,
+        "data": "1996-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 230.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1769,
+        "data": "1996-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 229.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1770,
+        "data": "1996-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 228.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1771,
+        "data": "1996-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 227.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1772,
+        "data": "1996-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 226.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1773,
+        "data": "1996-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 225.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1774,
+        "data": "1996-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 224.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1775,
+        "data": "1996-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 223.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1776,
+        "data": "1996-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 222.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1777,
+        "data": "1996-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 221.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1778,
+        "data": "1996-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 220.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1779,
+        "data": "1996-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 219.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1780,
+        "data": "1997-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 218.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1781,
+        "data": "1997-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 217.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1782,
+        "data": "1997-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 216.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1783,
+        "data": "1997-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 215.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1784,
+        "data": "1997-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 214.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1785,
+        "data": "1997-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 213.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1786,
+        "data": "1997-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 212.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1787,
+        "data": "1997-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 211.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1788,
+        "data": "1997-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 210.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1789,
+        "data": "1997-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 209.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1790,
+        "data": "1997-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 208.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1791,
+        "data": "1997-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 207.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1792,
+        "data": "1998-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 206.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1793,
+        "data": "1998-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 205.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1794,
+        "data": "1998-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 204.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1795,
+        "data": "1998-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 203.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1796,
+        "data": "1998-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 202.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1797,
+        "data": "1998-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 201.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1798,
+        "data": "1998-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 200.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1799,
+        "data": "1998-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 199.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1800,
+        "data": "1998-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 198.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1801,
+        "data": "1998-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 197.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1802,
+        "data": "1998-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 196.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1803,
+        "data": "1998-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 195.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1804,
+        "data": "1999-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 194.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1805,
+        "data": "1999-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 193.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1806,
+        "data": "1999-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 192.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1807,
+        "data": "1999-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 191.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1808,
+        "data": "1999-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 190.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1809,
+        "data": "1999-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 189.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1810,
+        "data": "1999-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 188.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1811,
+        "data": "1999-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 187.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1812,
+        "data": "1999-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 186.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1813,
+        "data": "1999-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 185.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1814,
+        "data": "1999-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 184.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1815,
+        "data": "1999-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 183.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1816,
+        "data": "2000-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 182.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1817,
+        "data": "2000-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 181.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1818,
+        "data": "2000-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 180.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1819,
+        "data": "2000-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 179.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1820,
+        "data": "2000-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 178.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1821,
+        "data": "2000-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 177.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1822,
+        "data": "2000-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 176.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1823,
+        "data": "2000-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 175.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1824,
+        "data": "2000-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 174.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1825,
+        "data": "2000-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 173.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1826,
+        "data": "2000-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 172.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1827,
+        "data": "2000-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 171.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1828,
+        "data": "2001-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 170.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1829,
+        "data": "2001-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 169.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1830,
+        "data": "2001-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 168.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1831,
+        "data": "2001-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 167.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1832,
+        "data": "2001-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 166.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1833,
+        "data": "2001-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 165.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1834,
+        "data": "2001-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 164.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1835,
+        "data": "2001-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 163.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1836,
+        "data": "2001-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 162.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1837,
+        "data": "2001-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 161.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1838,
+        "data": "2001-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 160.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1839,
+        "data": "2001-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 159.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1840,
+        "data": "2002-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 158.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1841,
+        "data": "2002-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 157.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1842,
+        "data": "2002-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 156.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1843,
+        "data": "2002-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 155.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1844,
+        "data": "2002-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 154.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1845,
+        "data": "2002-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 153.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1846,
+        "data": "2002-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 152.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1847,
+        "data": "2002-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 151.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1848,
+        "data": "2002-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 150.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1849,
+        "data": "2002-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 149.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1850,
+        "data": "2002-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 148.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1851,
+        "data": "2002-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 147.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1852,
+        "data": "2003-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 146.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1853,
+        "data": "2003-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 145.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1854,
+        "data": "2003-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 144.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1855,
+        "data": "2003-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 143.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1856,
+        "data": "2003-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 142.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1857,
+        "data": "2003-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 141.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1858,
+        "data": "2003-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 140.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1859,
+        "data": "2003-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 139.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1860,
+        "data": "2003-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 138.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1861,
+        "data": "2003-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 137.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1862,
+        "data": "2003-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 136.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1863,
+        "data": "2003-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 135.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1864,
+        "data": "2004-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 134.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1865,
+        "data": "2004-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 133.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1866,
+        "data": "2004-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 132.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1867,
+        "data": "2004-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 131.08499999999998,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1868,
+        "data": "2004-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 130.08499999999998,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1869,
+        "data": "2004-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 129.08499999999998,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1870,
+        "data": "2004-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 128.08499999999998,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1871,
+        "data": "2004-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 127.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1872,
+        "data": "2004-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 126.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1873,
+        "data": "2004-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 125.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1874,
+        "data": "2004-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 124.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1875,
+        "data": "2004-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 123.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1876,
+        "data": "2005-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 122.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1877,
+        "data": "2005-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 121.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1878,
+        "data": "2005-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 120.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1879,
+        "data": "2005-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 119.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1880,
+        "data": "2005-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 118.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1881,
+        "data": "2005-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 117.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1882,
+        "data": "2005-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 116.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1883,
+        "data": "2005-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 115.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1884,
+        "data": "2005-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 114.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1885,
+        "data": "2005-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 113.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1886,
+        "data": "2005-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 112.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1887,
+        "data": "2005-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 111.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1888,
+        "data": "2006-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 110.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1889,
+        "data": "2006-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 109.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1890,
+        "data": "2006-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 108.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1891,
+        "data": "2006-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 107.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1892,
+        "data": "2006-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 106.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1893,
+        "data": "2006-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 105.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1894,
+        "data": "2006-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 104.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1895,
+        "data": "2006-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 103.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1896,
+        "data": "2006-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 102.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1897,
+        "data": "2006-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 101.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1898,
+        "data": "2006-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 100.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1899,
+        "data": "2006-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 99.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1900,
+        "data": "2007-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 98.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1901,
+        "data": "2007-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 97.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1902,
+        "data": "2007-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 96.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1903,
+        "data": "2007-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 95.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1904,
+        "data": "2007-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 94.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1905,
+        "data": "2007-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 93.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1906,
+        "data": "2007-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 92.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1907,
+        "data": "2007-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 91.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1908,
+        "data": "2007-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 90.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1909,
+        "data": "2007-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 89.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1910,
+        "data": "2007-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 88.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1911,
+        "data": "2007-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 87.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1912,
+        "data": "2008-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 86.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1913,
+        "data": "2008-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 85.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1914,
+        "data": "2008-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 84.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1915,
+        "data": "2008-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 83.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1916,
+        "data": "2008-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 82.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1917,
+        "data": "2008-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 81.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1918,
+        "data": "2008-07-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 80.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1919,
+        "data": "2008-08-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 79.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1920,
+        "data": "2008-09-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 78.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1921,
+        "data": "2008-10-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 77.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1922,
+        "data": "2008-11-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 76.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1923,
+        "data": "2008-12-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 75.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1924,
+        "data": "2009-01-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 74.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1925,
+        "data": "2009-02-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 73.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1926,
+        "data": "2009-03-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 72.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1927,
+        "data": "2009-04-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 71.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1928,
+        "data": "2009-05-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 70.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1929,
+        "data": "2009-06-01T00:00:00.000+00:00",
+        "juros": 1.0,
+        "jurosAcumulados": 69.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1930,
+        "data": "2009-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 68.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1931,
+        "data": "2009-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 67.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1932,
+        "data": "2009-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 67.08500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1933,
+        "data": "2009-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 66.58500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1934,
+        "data": "2009-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 66.08500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1935,
+        "data": "2009-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 65.58500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1936,
+        "data": "2010-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 65.08500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1937,
+        "data": "2010-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 64.58500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1938,
+        "data": "2010-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 64.08500000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1939,
+        "data": "2010-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 63.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1940,
+        "data": "2010-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 63.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1941,
+        "data": "2010-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 62.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1942,
+        "data": "2010-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 62.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1943,
+        "data": "2010-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 61.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1944,
+        "data": "2010-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 61.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1945,
+        "data": "2010-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 60.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1946,
+        "data": "2010-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 60.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1947,
+        "data": "2010-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 59.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1948,
+        "data": "2011-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 59.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1949,
+        "data": "2011-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 58.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1950,
+        "data": "2011-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 58.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1951,
+        "data": "2011-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 57.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1952,
+        "data": "2011-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 57.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1953,
+        "data": "2011-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 56.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1954,
+        "data": "2011-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 56.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1955,
+        "data": "2011-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 55.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1956,
+        "data": "2011-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 55.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1957,
+        "data": "2011-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 54.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1958,
+        "data": "2011-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 54.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1959,
+        "data": "2011-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 53.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1960,
+        "data": "2012-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 53.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1961,
+        "data": "2012-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 52.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1962,
+        "data": "2012-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 52.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1963,
+        "data": "2012-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 51.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1964,
+        "data": "2012-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 51.085,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1965,
+        "data": "2012-06-01T00:00:00.000+00:00",
+        "juros": 0.4751,
+        "jurosAcumulados": 50.585,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1966,
+        "data": "2012-07-01T00:00:00.000+00:00",
+        "juros": 0.4813,
+        "jurosAcumulados": 50.1099,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1967,
+        "data": "2012-08-01T00:00:00.000+00:00",
+        "juros": 0.4551,
+        "jurosAcumulados": 49.6286,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1968,
+        "data": "2012-09-01T00:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 49.1735,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1969,
+        "data": "2012-10-01T00:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 48.7462,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1970,
+        "data": "2012-11-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 48.3189,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1971,
+        "data": "2012-12-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 47.9055,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1972,
+        "data": "2013-01-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 47.4921,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1973,
+        "data": "2013-02-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 47.0787,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1974,
+        "data": "2013-03-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 46.6653,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1975,
+        "data": "2013-04-01T00:00:00.000+00:00",
+        "juros": 0.4134,
+        "jurosAcumulados": 46.2519,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1976,
+        "data": "2013-05-01T00:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 45.8385,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1977,
+        "data": "2013-06-01T00:00:00.000+00:00",
+        "juros": 0.4551,
+        "jurosAcumulados": 45.4112,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1978,
+        "data": "2013-07-01T00:00:00.000+00:00",
+        "juros": 0.4551,
+        "jurosAcumulados": 44.9561,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1979,
+        "data": "2013-08-01T00:00:00.000+00:00",
+        "juros": 0.4828,
+        "jurosAcumulados": 44.501,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1980,
+        "data": "2013-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 44.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1981,
+        "data": "2013-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 43.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1982,
+        "data": "2013-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 43.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1983,
+        "data": "2013-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 42.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1984,
+        "data": "2014-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 42.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1985,
+        "data": "2014-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 41.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1986,
+        "data": "2014-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 41.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1987,
+        "data": "2014-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 40.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1988,
+        "data": "2014-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 40.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1989,
+        "data": "2014-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 39.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1990,
+        "data": "2014-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 39.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1991,
+        "data": "2014-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 38.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1992,
+        "data": "2014-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 38.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1993,
+        "data": "2014-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 37.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1994,
+        "data": "2014-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 37.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1995,
+        "data": "2014-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 36.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1996,
+        "data": "2015-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 36.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1997,
+        "data": "2015-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 35.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1998,
+        "data": "2015-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 35.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 1999,
+        "data": "2015-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 34.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2000,
+        "data": "2015-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 34.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2001,
+        "data": "2015-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 33.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2002,
+        "data": "2015-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 33.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2003,
+        "data": "2015-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 32.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2004,
+        "data": "2015-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 32.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2005,
+        "data": "2015-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 31.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2006,
+        "data": "2015-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 31.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2007,
+        "data": "2015-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 30.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2008,
+        "data": "2016-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 30.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2009,
+        "data": "2016-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 29.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2010,
+        "data": "2016-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 29.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2011,
+        "data": "2016-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 28.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2012,
+        "data": "2016-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 28.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2013,
+        "data": "2016-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 27.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2014,
+        "data": "2016-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 27.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2015,
+        "data": "2016-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 26.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2016,
+        "data": "2016-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 26.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2017,
+        "data": "2016-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 25.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2018,
+        "data": "2016-11-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 25.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2019,
+        "data": "2016-12-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 24.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2020,
+        "data": "2017-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 24.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2021,
+        "data": "2017-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 23.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2022,
+        "data": "2017-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 23.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2023,
+        "data": "2017-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 22.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2024,
+        "data": "2017-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 22.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2025,
+        "data": "2017-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 21.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2026,
+        "data": "2017-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 21.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2027,
+        "data": "2017-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 20.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2028,
+        "data": "2017-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 20.0182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2029,
+        "data": "2017-10-01T00:00:00.000+00:00",
+        "juros": 0.469,
+        "jurosAcumulados": 19.5182,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2030,
+        "data": "2017-11-01T00:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 19.0492,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2031,
+        "data": "2017-12-01T00:00:00.000+00:00",
+        "juros": 0.4273,
+        "jurosAcumulados": 18.6219,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2032,
+        "data": "2018-01-01T00:00:00.000+00:00",
+        "juros": 0.3994,
+        "jurosAcumulados": 18.1946,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2033,
+        "data": "2018-02-01T00:00:00.000+00:00",
+        "juros": 0.3994,
+        "jurosAcumulados": 17.7952,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2034,
+        "data": "2018-03-01T00:00:00.000+00:00",
+        "juros": 0.3855,
+        "jurosAcumulados": 17.3958,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2035,
+        "data": "2018-04-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 17.0103,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2036,
+        "data": "2018-05-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 16.6388,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2037,
+        "data": "2018-06-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 16.2673,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2038,
+        "data": "2018-07-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 15.8958,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2039,
+        "data": "2018-08-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 15.5243,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2040,
+        "data": "2018-09-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 15.1528,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2041,
+        "data": "2018-10-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 14.7813,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2042,
+        "data": "2018-11-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 14.4098,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2043,
+        "data": "2018-12-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 14.0383,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2044,
+        "data": "2019-01-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 13.6668,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2045,
+        "data": "2019-02-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 13.2953,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2046,
+        "data": "2019-03-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.9238,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2047,
+        "data": "2019-04-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.5523,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2048,
+        "data": "2019-05-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 12.1808,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2049,
+        "data": "2019-06-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 11.8093,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2050,
+        "data": "2019-07-01T00:00:00.000+00:00",
+        "juros": 0.3715,
+        "jurosAcumulados": 11.4378,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2051,
+        "data": "2019-08-01T00:00:00.000+00:00",
+        "juros": 0.3434,
+        "jurosAcumulados": 11.0663,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2052,
+        "data": "2019-09-01T00:00:00.000+00:00",
+        "juros": 0.3434,
+        "jurosAcumulados": 10.7229,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2053,
+        "data": "2019-10-01T00:00:00.000+00:00",
+        "juros": 0.3153,
+        "jurosAcumulados": 10.3795,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2054,
+        "data": "2019-11-01T00:00:00.000+00:00",
+        "juros": 0.2871,
+        "jurosAcumulados": 10.0642,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2055,
+        "data": "2019-12-01T00:00:00.000+00:00",
+        "juros": 0.2871,
+        "jurosAcumulados": 9.7771,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2056,
+        "data": "2020-01-01T00:00:00.000+00:00",
+        "juros": 0.2588,
+        "jurosAcumulados": 9.49,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2057,
+        "data": "2020-02-01T00:00:00.000+00:00",
+        "juros": 0.2588,
+        "jurosAcumulados": 9.231200000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2058,
+        "data": "2020-03-01T00:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 8.9724,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2059,
+        "data": "2020-04-01T00:00:00.000+00:00",
+        "juros": 0.2162,
+        "jurosAcumulados": 8.7278,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2060,
+        "data": "2020-05-01T00:00:00.000+00:00",
+        "juros": 0.2162,
+        "jurosAcumulados": 8.5116,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2061,
+        "data": "2020-06-01T00:00:00.000+00:00",
+        "juros": 0.1733,
+        "jurosAcumulados": 8.2954,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2062,
+        "data": "2020-07-01T00:00:00.000+00:00",
+        "juros": 0.1303,
+        "jurosAcumulados": 8.1221,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2063,
+        "data": "2020-08-01T00:00:00.000+00:00",
+        "juros": 0.1303,
+        "jurosAcumulados": 7.9918,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2064,
+        "data": "2020-09-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.8615,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2065,
+        "data": "2020-10-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.7456,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2066,
+        "data": "2020-11-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.6297,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2067,
+        "data": "2020-12-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.5138,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2068,
+        "data": "2021-01-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.3979,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2069,
+        "data": "2021-02-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.282,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2070,
+        "data": "2021-03-01T00:00:00.000+00:00",
+        "juros": 0.1159,
+        "jurosAcumulados": 7.1661,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2071,
+        "data": "2021-04-01T00:00:00.000+00:00",
+        "juros": 0.159,
+        "jurosAcumulados": 7.0502,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2072,
+        "data": "2021-05-01T00:00:00.000+00:00",
+        "juros": 0.159,
+        "jurosAcumulados": 6.8911999999999995,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2073,
+        "data": "2021-06-01T00:00:00.000+00:00",
+        "juros": 0.2019,
+        "jurosAcumulados": 6.732200000000001,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2074,
+        "data": "2021-07-01T00:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 6.5303,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2075,
+        "data": "2021-08-01T00:00:00.000+00:00",
+        "juros": 0.2446,
+        "jurosAcumulados": 6.2857,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2076,
+        "data": "2021-09-01T00:00:00.000+00:00",
+        "juros": 0.3012,
+        "jurosAcumulados": 6.0411,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2077,
+        "data": "2021-10-01T00:00:00.000+00:00",
+        "juros": 0.3575,
+        "jurosAcumulados": 5.7399000000000004,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2078,
+        "data": "2021-11-01T00:00:00.000+00:00",
+        "juros": 0.4412,
+        "jurosAcumulados": 5.3824000000000005,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2079,
+        "data": "2021-12-01T00:00:00.000+00:00",
+        "juros": 0.4412,
+        "jurosAcumulados": 4.9412,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2080,
+        "data": "2022-01-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 4.5,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2081,
+        "data": "2022-02-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 4.0,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2082,
+        "data": "2022-03-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 3.5,
+        "tipo": 2,
+        "descricao": "MANUAL DE ORIENTA�AO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIA�AO POUPAN�A (MP N� 567/2012,CONVERTIDA NA LEI N� 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2454,
+        "data": "2022-04-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 3.0,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2455,
+        "data": "2022-05-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 2.5,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2456,
+        "data": "2022-06-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 2.0,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2492,
+        "data": "2022-07-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 1.5,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2961,
+        "data": "2022-08-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 1.0,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2967,
+        "data": "2022-09-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 0.5,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    },
+    {
+        "codigo": 2971,
+        "data": "2022-10-01T00:00:00.000+00:00",
+        "juros": 0.5,
+        "jurosAcumulados": 0.0,
+        "tipo": 2,
+        "descricao": " MANUAL DE ORIENTAÇAO DE PROCEDIMENTOS PARA CALCULOS NA JF - 1% A.M. ATE 06/2009; 0,5% A.M. ATE 05/2012; APOS VARIAÇAO POUPANÇA (MP Nº 567/2012,CONVERTIDA NA LEI Nº 12.703, DE 07/08/2012)"
+    }
+]
