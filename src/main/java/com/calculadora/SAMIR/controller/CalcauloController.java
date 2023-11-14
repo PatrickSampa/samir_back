@@ -163,7 +163,7 @@ public class CalcauloController {
 
 
 					if ((informacoes.isJuros() && informacoes.getIncioJuros() != null) || informacoes.isSelic()) {
-						jurosAcumulado = calculoJuros(mesCalculo, anoCalculo, listJuros, mesAtualizacao, anoAtualizacao,
+						jurosAcumulado =  calculoJuros(mesCalculo, anoCalculo, listJuros, mesAtualizacao, anoAtualizacao,
 								mesIncioJuros, anoIncioJuros, dateFormat);
 						if (jurosAcumulado == 0) {
 							jurosAcumulado = calculoJuros(mesCalculo, anoCalculo, listJuros, mesAtualizacao,
@@ -172,11 +172,11 @@ public class CalcauloController {
 						}
 					}   
 
-					correcaoAcumulada = calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
+					correcaoAcumulada =  calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
 							anoAtualizacao, dateFormat);
 
 					if (correcaoAcumulada == 1) {
-						correcaoAcumulada = calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
+						correcaoAcumulada =  calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
 								anoAtualizacao, dateFormat);
 					}
 
@@ -205,7 +205,7 @@ public class CalcauloController {
 
 					float mesResjusteSalarioMinimo = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
 					
- 
+							 
 						if(mesCalculo == 8 && anoCalculo == 2006){
 							rmi = rmi * (float) 1.000096;
 							dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
@@ -243,17 +243,18 @@ public class CalcauloController {
 							rmi = rmi * reajusteAcumuladoParaPrimeiroMes;
 						}
 						reajusteParaPrimeiroMes = reajusteAcumuladoParaPrimeiroMes;
-
+						System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO2 = " + correcaoAcumulada);
 						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
-							calculoAdd = new CalculoDTO(dataCalculo, reajusteParaPrimeiroMes, rmi, reajusteAcumuladoParaPrimeiroMes,
+							calculoAdd = new CalculoDTO(dataCalculo, reajusteParaPrimeiroMes, rmi, correcaoAcumulada,
 							jurosAcumulado,
 							porcentagemRmi);
 
 
 						}else{
+							System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO3 = " + correcaoAcumulada);
 							System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
 							dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
-							calculoAdd = new CalculoDTO(dataCalculo, reajuste, rmi, correcaoAcumulada,
+							calculoAdd = new CalculoDTO(dataCalculo, reajuste, rmi, (float) correcaoAcumulada,
 							jurosAcumulado,
 							porcentagemRmi);
 						}
@@ -638,7 +639,7 @@ public class CalcauloController {
 
 			// }
 
-			float correcaoAcumulada = calculoCorrecao(mesDib, anoDib, listCorrecao, mesAtualizacao, anoAtualizacao,
+			float correcaoAcumulada =  calculoCorrecao(mesDib, anoDib, listCorrecao, mesAtualizacao, anoAtualizacao,
 					dateFormat);
 			float jurosAcumulado = calculoJuros(mesDib, anoDib, listJuros, mesAtualizacao, anoAtualizacao,
 					mesIncioJuros, anoIncioJuros, dateFormat);
@@ -748,22 +749,40 @@ public class CalcauloController {
 	 */
 	public float calculoCorrecao(int mesCalculo, int anoCalculo, List<CorrecaoDTO> listCorrecao, int mesAtualizacao,
 			int anoAtualizacao, DateTimeFormatter dateFormat) {
-				//System.out.println("ENTROU NO CORRECAO " + mesCalculo + " = " + anoCalculo);
-		float correcaoAcumulada = 1;
+				System.out.println("ENTROU NO CORRECAO " + mesCalculo + " = " + anoCalculo);
+				float correcaoAcumulada = 1;
+				//System.out.println("PARA SABER O MES = " + mesCalculo);
 		try {
 			for (int indexCorrecao = listCorrecao.size() - 1; indexCorrecao >= 0; indexCorrecao--) {
 				int mesCorrecao = listCorrecao.get(indexCorrecao).getData().getMonthValue();
 				int anoCorrecao = listCorrecao.get(indexCorrecao).getData().getYear(); 
 				if (verificarPeriodo(mesCorrecao, anoCorrecao, mesAtualizacao, anoAtualizacao)) {
-					correcaoAcumulada *= ((listCorrecao.get(indexCorrecao).getPercentual() / 100) + 1);
-					//correcaoAcumulada *= (listCorrecao.get(indexCorrecao).getPercentual());
-					//System.out.println("JUROS ACUMULADOS = " + correcaoAcumulada + " - " + ((listCorrecao.get(indexCorrecao).getPercentual() / 100) + 1) + " - " +((listCorrecao.get(indexCorrecao).getPercentual())) +" - " + (listCorrecao.get(indexCorrecao)));
+					if(anoCorrecao == 2021 && mesCorrecao == 12){
+						System.out.println("PRIMEIRO IF " + correcaoAcumulada + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 1));
+						correcaoAcumulada += ((listCorrecao.get(indexCorrecao).getPercentual() / 100));
+					}else if(anoCorrecao > 2021){
+						BigDecimal resultado = new BigDecimal(listCorrecao.get(indexCorrecao).getPercentual()).divide(new BigDecimal("100"), 4, BigDecimal.ROUND_HALF_UP);
+						System.out.println(resultado);
+						System.out.println("SEGUNDO IF " + correcaoAcumulada  + " - " +(resultado).floatValue());
+						correcaoAcumulada += (resultado).floatValue();
+					}else{
+						System.out.println("TERCEIRO " + correcaoAcumulada  + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 100));
+						correcaoAcumulada *= ((listCorrecao.get(indexCorrecao).getPercentual() / 100) + 1);
+					}
+					
+					
 				}
 				if (mesCorrecao == mesCalculo && anoCalculo == anoCorrecao) {
-					//System.out.println("correcao = " + correcaoAcumulada);
-					/* BigDecimal resultadoBigDecimal = new BigDecimal(correcaoAcumulada);
-					resultadoBigDecimal = resultadoBigDecimal.setScale(4, RoundingMode.DOWN);
-					System.out.println("correcao2 = " + resultadoBigDecimal.floatValue()); */
+					System.out.println("RETORNOU = " + correcaoAcumulada);
+					
+
+					// Criar um BigDecimal com o número
+					BigDecimal original = BigDecimal.valueOf(correcaoAcumulada);
+
+					// Arredondar para três casas decimais
+					BigDecimal arredondado = original.setScale(3, RoundingMode.HALF_UP);
+					System.out.println("TESTE " + arredondado);
+					//return  arredondado.floatValue();
 					return correcaoAcumulada;
 			
 				}
