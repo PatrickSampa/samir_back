@@ -764,24 +764,38 @@ public class CalcauloController {
 						BigDecimal resultado = new BigDecimal(listCorrecao.get(indexCorrecao).getPercentual()).divide(new BigDecimal("100"), 4, BigDecimal.ROUND_HALF_UP);
 						System.out.println(resultado);
 						System.out.println("SEGUNDO IF " + correcaoAcumulada  + " - " +(resultado).floatValue());
-						correcaoAcumulada += (resultado).floatValue();
+						System.out.println("SOMA = " + ((resultado).floatValue() + 1));
+
+						//correcaoAcumulada += (resultado).floatValue();
+						correcaoAcumulada += Float.parseFloat((String.format("%.4f", resultado)).replace(",", "."));
+
+						
 					}else{
-						System.out.println("TERCEIRO " + correcaoAcumulada  + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 100));
+						//System.out.println("TERCEIRO " + correcaoAcumulada  + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 100));
 						correcaoAcumulada *= ((listCorrecao.get(indexCorrecao).getPercentual() / 100) + 1);
 					}
 					
 					
 				}
 				if (mesCorrecao == mesCalculo && anoCalculo == anoCorrecao) {
-					System.out.println("RETORNOU = " + correcaoAcumulada);
+					if(correcaoAcumulada == 0){
+						return (float) 1;
+					}
+					if(mesCalculo == 1 && anoCalculo == 2023){
+						BigDecimal original = BigDecimal.valueOf(correcaoAcumulada);
+						System.out.println("T = " + correcaoAcumulada);
+					// Arredondar para três casas decimais
+						BigDecimal arredondado = original.setScale(3, RoundingMode.HALF_UP);
+						//System.out.println("TESTE " + arredondado.floatValue());
+						return arredondado.floatValue();
+					}
 					
+					System.out.println("RETORNOU = " + correcaoAcumulada);
+					/* System.out.println("RETORNOU = " + String.valueOf(correcaoAcumulada).length());
+					System.out.println("RETORNOU = " + Float.parseFloat((String.format("%.4f", 1.0097001)).replace(",", "."))); */
 
 					// Criar um BigDecimal com o número
-					BigDecimal original = BigDecimal.valueOf(correcaoAcumulada);
-
-					// Arredondar para três casas decimais
-					BigDecimal arredondado = original.setScale(3, RoundingMode.HALF_UP);
-					System.out.println("TESTE " + arredondado);
+					
 					//return  arredondado.floatValue();
 					return correcaoAcumulada;
 			
