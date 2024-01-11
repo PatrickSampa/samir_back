@@ -8,7 +8,7 @@ services:
     depends_on:
       - calculadora_samir_database
     environment:
-      - spring.datasource.url=jdbc:postgresql://database:5432/samir
+      - spring.datasource.url=jdbc:postgresql://calculadora_samir_database:5432/samir
       - spring.datasource.username=samir
       - spring.datasource.password=samir
       - spring.jpa.hibernate.ddl-auto=update
