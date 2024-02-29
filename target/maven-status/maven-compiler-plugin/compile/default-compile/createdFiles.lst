@@ -26,6 +26,7 @@ com\calculadora\SAMIR\entities\TaxaReajuste.class
 com\calculadora\SAMIR\repositories\DescribeCorrecaoRepository.class
 com\calculadora\SAMIR\repositories\CorrecaoRepository.class
 com\calculadora\SAMIR\services\SalarioMinimoService.class
+com\calculadora\SAMIR\DTO\calculoJurosDTO.class
 com\calculadora\SAMIR\entities\Correcao.class
 com\calculadora\SAMIR\entities\Juros.class
 com\calculadora\SAMIR\repositories\BenefecioRepository.class
