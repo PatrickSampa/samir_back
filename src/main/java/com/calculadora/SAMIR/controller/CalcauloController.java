@@ -9,6 +9,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.hibernate.mapping.Any;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -23,6 +24,8 @@ import com.calculadora.SAMIR.DTO.InfoCalculoDTO;
 import com.calculadora.SAMIR.DTO.JurosDTO;
 import com.calculadora.SAMIR.entities.SalarioMinimo;
 import com.calculadora.SAMIR.entities.TaxaReajuste;
+import com.calculadora.SAMIR.entities.taxaIpcae;
+import com.calculadora.SAMIR.repositories.IpcaeJurosRepository;
 import com.calculadora.SAMIR.repositories.ReajusteRepositorio;
 import com.calculadora.SAMIR.repositories.SalarioMinimoRepository;
 import com.calculadora.SAMIR.services.CorrecaoService;
@@ -42,6 +45,9 @@ public class CalcauloController {
 	@Autowired
 	private SalarioMinimoRepository salarioMinimoRepository;
 
+	@Autowired
+	private IpcaeJurosRepository ipcaeJurosRepository;
+
 	@PostMapping("/calcular")
 	public @ResponseBody Object calcular(@RequestBody InfoCalculoDTO informacoes) {
 
@@ -49,7 +55,7 @@ public class CalcauloController {
 			 if(informacoes.getDibAnterior() == ""){
 				return CalcauloController2(informacoes);
 			 }
-
+			 
 			String[] arrayInicioCalculo = informacoes.getInicioCalculo().split("/");
 			int mesInicioCalculo = Integer.parseInt(arrayInicioCalculo[1]);
 			int anoInicioCalculo = Integer.parseInt(arrayInicioCalculo[2]);
@@ -132,17 +138,18 @@ public class CalcauloController {
 			}   
 			List<SalarioMinimo> listaSalarioMinimoParaTaxaSelic = new ArrayList<SalarioMinimo>();
 			listaSalarioMinimoParaTaxaSelic = salarioMinimoRepository.findAll();
-			System.out.println(listaSalarioMinimoParaTaxaSelic);
+			
 			boolean dataMenorQueDoisMilEDez = false;
 			boolean entrouNoIfParaDataReajuste = false;
 			int mesReajusteSalarioMin = 0;
 			int mesReajusteSalarioMinAnteriorAoInicioDoCalculo = 0;
 			boolean passYear = false;
+			int contadorArrayQuantSalarioMinimo = 0;
 			if (anoCalculo <= anoDip) {
-				System.out.println("MMMMMMMMMMMMMMMMMMEE " + mesCalculo);
 				while (anoCalculo != anoDip + 1) {
 					//System.out.println("PARA VERIFICAR O REAJUSTE 1= " + reajusteAcumulado  + " MES= " + mesCalculo + " ANO= " + anoCalculo);
-					System.out.println("REAJUSTE ACUMULADO = " + reajusteAcumulado);
+					List<LocalDate> numerpReajustesSalarioMinimoEmUmAno = (existeMaisDeUmaAtualizacaoSoSalarioMinimoNoAno(listaSalarioMinimoParaTaxaSelic, anoCalculo));
+					
 					if(!entrouNoIfParaDataReajuste){
 						mesReajusteSalarioMin = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
 						mesReajusteSalarioMinAnteriorAoInicioDoCalculo = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, (anoCalculo - 1));
@@ -157,14 +164,21 @@ public class CalcauloController {
 
 						// quando ele e baseado no salario minimo entao o valor do reajuste anual e
 						// sempre igual ao salario minimo
-						if (!informacoes.isSalarioMinimo()) {
-						    System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajust  = " + reajusteAcumulado);							
+						/* if (!informacoes.isSalarioMinimo()) { */
+						   							
 							rmi = rmi * reajusteAcumulado;
-							System.out.println("RE " + rmi);
-						}
+							
+						/* } */
 						//System.out.println("TEM RMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" + reajusteAcumulado + " - " + rmi);
-						reajuste = reajusteAcumulado; 
-						//System.out.println("RECEBEU = " + reajuste + " = " + reajusteAcumulado);
+						/* if(contadorArrayQuantSalarioMinimo == 0){
+
+							reajuste = reajusteAcumulado;  
+						}
+						
+						contadorArrayQuantSalarioMinimo++;
+						if(numerpReajustesSalarioMinimoEmUmAno.size() > 1 && contadorArrayQuantSalarioMinimo < numerpReajustesSalarioMinimoEmUmAno.size()){
+							mesReajusteSalarioMin = numerpReajustesSalarioMinimoEmUmAno.get(contadorArrayQuantSalarioMinimo).getMonthValue();
+						} */
 					}
  
 
@@ -225,7 +239,7 @@ public class CalcauloController {
 
  
 						}else if(mesReajusteSalarioMin >= mesInicioCalculo && mesCalculo == mesReajusteSalarioMin && anoCalculo == anoInicioCalculo){
-							System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+							
 							if (informacoes.getDibAnterior() != null
 								&& informacoes.getDibAnterior().toString().length() > 0) {
 							if (anoDibAnterio < anoInicioCalculo) {
@@ -247,12 +261,12 @@ public class CalcauloController {
 							reajusteAcumuladoParaPrimeiroMes = BuscarReajusteDoPrimeiroMesDaTabelaSemADibAnterior(mesCalculo, anoCalculo, listReajuste, dateFormat, 1, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 						}
 
-						System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+						
 						if (!informacoes.isSalarioMinimo()) {
 							rmi = rmi * reajusteAcumuladoParaPrimeiroMes;
 						}
 						reajusteParaPrimeiroMes = reajusteAcumuladoParaPrimeiroMes;
-						System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO2 = " + correcaoAcumulada);
+						
 						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 						if(!informacoes.isSelic()){
 							jurosAcumulado = 0;
@@ -279,7 +293,7 @@ public class CalcauloController {
 						///System.out.println("PARA VERIFICAR O REAJUSTE 2= " + reajusteAcumulado);
 					 
 	 	
-
+ 
 
 					//System.out.println("Verificar Periodo = " + verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo));
 					if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
@@ -339,8 +353,7 @@ public class CalcauloController {
 					//System.out.println("REAJUSTEEEEEEEEEEEE " + mesResjusteSalarioMinimo + " Ano: "+ anoCalculo + " Mes" + mesCalculo);
 				 if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
 					
-						System.out.println("entrou de primeira aqui????????????????????????????");
-						System.out.println("entrou 0" + mesCalculo);
+
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 					} else if (confirmadoData == 0) { 
 						//System.out.println("OU AQUI???????????????????????????????");
@@ -385,6 +398,7 @@ public class CalcauloController {
 					if (mesCalculo == 13) {
 						mesCalculo = 01;
 						anoCalculo++;
+						contadorArrayQuantSalarioMinimo = 0;
 						entrouNoIfParaDataReajuste = false;
 						passYear = true;
 						
@@ -413,7 +427,11 @@ public class CalcauloController {
 	public List<CalculoDTO> CalcauloController2(InfoCalculoDTO informacoes){
 
 		try { 
-			  
+			  System.out.println("pra caaaaaaa");
+			  System.out.println("INFORMACOESSSSSSSSSSSSSSSS");
+			  System.out.println(informacoes);
+
+
 			String[] arrayInicioCalculo = informacoes.getInicioCalculo().split("/");
 			int mesInicioCalculo = Integer.parseInt(arrayInicioCalculo[1]);
 			int anoInicioCalculo = Integer.parseInt(arrayInicioCalculo[2]);
@@ -438,13 +456,23 @@ public class CalcauloController {
 
 			}
 			
-			//System.out.println("AQUI TESTANDO EM HOMENAGEM AO RAFA: "+ mesIncioJuros +" "+ anoIncioJuros);
+			List<taxaIpcae> listTaxaIpcae = new ArrayList<taxaIpcae>();
+			
+			if(informacoes.getTipoCorrecao() == 6){
+
+				listTaxaIpcae = ipcaeJurosRepository.findAllByOrderByDataAsc();
+
+				informacoes.setTipoCorrecao(4);
+			}
+
+
+			System.out.println("AQUI TESTANDO EM HOMENAGEM AO RAFA: "+ listTaxaIpcae);
 			List<CalculoDTO> listCalculo = new ArrayList<CalculoDTO>();
 			List<SalarioMinimo> listaSalarioMinimo = new ArrayList<SalarioMinimo>();
 			if (informacoes.isSalarioMinimo() || informacoes.isLimiteMinimoMaximo()) {
 				listaSalarioMinimo = salarioMinimoRepository.findAll();
 			}
-
+ 
 			List<TaxaReajuste> listReajuste = reajusteRepositorio.findAll();
 			List<CorrecaoDTO> listCorrecao = correcaoRepository
 					.findByType(informacoes.getTipoCorrecao());
@@ -471,6 +499,10 @@ public class CalcauloController {
 
 			float rmi = informacoes.getRmi();
 
+
+
+
+
 			float porcentagemRmi = (informacoes.getPorcentagemRMI() != 0) ? informacoes.getPorcentagemRMI() : 100;
 			float reajuste = 1;
 			float reajusteParaPrimeiroMes = 1;
@@ -496,39 +528,71 @@ public class CalcauloController {
 			}   
 			List<SalarioMinimo> listaSalarioMinimoParaTaxaSelic = new ArrayList<SalarioMinimo>();
 			listaSalarioMinimoParaTaxaSelic = salarioMinimoRepository.findAll();
-			System.out.println(listaSalarioMinimoParaTaxaSelic);
+			//System.out.println(listaSalarioMinimoParaTaxaSelic);
 			boolean dataMenorQueDoisMilEDez = false;
 			boolean entrouNoIfParaDataReajuste = false;
 			int mesReajusteSalarioMin = 0;
 			int mesReajusteSalarioMinAnteriorAoInicioDoCalculo = 0;
 			boolean passYear = false;
+			int contadorArrayQuantSalarioMinimo = 0;
 			if (anoCalculo <= anoDip) {
+				//System.out.println(listJuros);
+				//System.out.println(listCorrecao);
+				//System.out.println(listCorrecao); 
 				while (anoCalculo != anoDip + 1) {
-					System.out.println("PARA VERIFICAR O REAJUSTE 1= " + reajusteAcumulado  + " MES= " + mesCalculo + " ANO= " + anoCalculo + " RMI = " +rmi);
+					List<LocalDate> numerpReajustesSalarioMinimoEmUmAno = (existeMaisDeUmaAtualizacaoSoSalarioMinimoNoAno(listaSalarioMinimoParaTaxaSelic, anoCalculo));
+
+					
+					
 					if(!entrouNoIfParaDataReajuste){
+						System.out.println("ENTROU NO IFfff"); 
+						buscarSegundoMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
 						mesReajusteSalarioMin = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
 						mesReajusteSalarioMinAnteriorAoInicioDoCalculo = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, (anoCalculo - 1));
 						entrouNoIfParaDataReajuste = true;
 					}
 					 
 					SimpleDateFormat in = new SimpleDateFormat("yyyy-MM-dd");
-					SimpleDateFormat out = new SimpleDateFormat("dd/MM/yyyy");
+					SimpleDateFormat out = new SimpleDateFormat("dd/MM/yyyy"); 
 					String dataCalculo;
 					 
-					 if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
 
+					/* System.out.println("verificar aqui");
+					System.out.println(mesCalculo);
+					System.out.println(mesReajusteSalarioMin);
+					System.out.println(anoCalculo);
+					System.out.println(anoInicioCalculo); */
+					 if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
+						/* System.out.println("ENTROU NO IF");
+						System.out.println(mesCalculo);
+						System.out.println(anoCalculo);
+						System.out.println(anoInicioCalculo); */
+						
 						// quando ele e baseado no salario minimo entao o valor do reajuste anual e
 						// sempre igual ao salario minimo
+						
 						if (!informacoes.isSalarioMinimo()) {
-						    System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajust  = " + reajusteAcumulado);							
 							rmi = rmi * reajusteAcumulado;
-							System.out.println("RE " + rmi);
+							
 						} 
-						//System.out.println("TEM RMIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII" + reajusteAcumulado + " - " + rmi);
-						reajuste = reajusteAcumulado; 
-						System.out.println("RECEBEU = " + reajuste + " = " + reajusteAcumulado);
+						
+						/* if(contadorArrayQuantSalarioMinimo == 0){ */
+
+							reajuste = reajusteAcumulado;  
+						/* } */
+						/* System.out.println(reajusteAcumulado);
+						System.out.println(rmi);
+						contadorArrayQuantSalarioMinimo++;
+						if(numerpReajustesSalarioMinimoEmUmAno.size() > 1 && contadorArrayQuantSalarioMinimo < numerpReajustesSalarioMinimoEmUmAno.size()){
+							System.out.println(numerpReajustesSalarioMinimoEmUmAno);
+							mesReajusteSalarioMin = numerpReajustesSalarioMinimoEmUmAno.get(contadorArrayQuantSalarioMinimo).getMonthValue();
+						}
+						System.out.println("mesReajusteSalarioMin");
+						System.out.println(mesReajusteSalarioMin); */
+
 					}
- 
+					/* System.out.println("MINIMOOOOOOOOOOOOOO");
+					System.out.println(rmi); */
 
 
 					if ((informacoes.isJuros() && informacoes.getIncioJuros() != null) || informacoes.isSelic()) {
@@ -544,20 +608,30 @@ public class CalcauloController {
 
 					correcaoAcumulada =  calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
 							anoAtualizacao, dateFormat);
-
 					if (correcaoAcumulada == 1) {
 						correcaoAcumulada =  calculoCorrecao(mesCalculo, anoCalculo, listCorrecao, mesAtualizacao,
 								anoAtualizacao, dateFormat);
 					}
 
+					/* System.out.println("PASSOU POR AQUI");
+					System.out.println(informacoes.isSalarioMinimo()); */ 
 					if (informacoes.isSalarioMinimo()
 							|| rmi < salarioMinimo(mesCalculo, anoCalculo, dateFormat, listaSalarioMinimo)) {
-						rmi = salarioMinimo(mesCalculo, anoCalculo, dateFormat, listaSalarioMinimo);
+								//System.out.println("ENTROU AQUIIIIIIIIIIIIIII");
+								/* int numeroBeneficio = Integer.parseInt(informacoes.getBeneficio().split(" - ")[0]);
+								if(numeroBeneficio != 36){
+
+									rmi = salarioMinimo(mesCalculo, anoCalculo, dateFormat, listaSalarioMinimo);
+								} */
+								rmi = salarioMinimo(mesCalculo, anoCalculo, dateFormat, listaSalarioMinimo);
+
+						/* System.out.println("minimo de novo");
+						System.out.println(rmi); */
 						if (informacoes.isSalarioMinimo() == false) {
 							informacoes.setSalarioMinimo(true);
 						}
-					}
-	
+					}  
+					
 					CalculoDTO calculoAdd;
 
 
@@ -574,14 +648,32 @@ public class CalcauloController {
 							
 
 					float mesResjusteSalarioMinimo = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
-					
-							 
-						if(mesCalculo == 8 && anoCalculo == 2006){
+					/* if(mesCalculo == 2 && anoCalculo == 2020){
+						rmi = rmi * (float) 1.000096;
+						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
+						if(!informacoes.isSelic()){
+						jurosAcumulado = 0;
+						}	
+					}else */
+						/* if(mesCalculo == 2 && anoCalculo == 2020){
+							rmi = rmi * (float) 1.0411;
+							dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
+							if(!informacoes.isSelic()){
+							jurosAcumulado = 0;
+							}
+
+
+
+							calculoAdd = new CalculoDTO(dataCalculo, (float) 1.0411, rmi, correcaoAcumulada,
+							jurosAcumulado,
+							porcentagemRmi);
+							reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
+						}else  */if(mesCalculo == 8 && anoCalculo == 2006){
 							rmi = rmi * (float) 1.000096;
 							dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 							if(!informacoes.isSelic()){
 							jurosAcumulado = 0;
-						}	
+						}
 						calculoAdd = new CalculoDTO(dataCalculo, (float) 1.000096, rmi, correcaoAcumulada,
 							jurosAcumulado,
 							porcentagemRmi);
@@ -589,7 +681,7 @@ public class CalcauloController {
 
 						//anntes estava mesReajusteSalarioMin >= mesInicioCalculo, tirei pois a kelen disse que o primeiro mes não pode ser, caso caia no 01/01/0000
 						}else if(mesReajusteSalarioMin > mesInicioCalculo && mesCalculo == mesReajusteSalarioMin && anoCalculo == anoInicioCalculo){
-							System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+							//System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 							if (informacoes.getDibAnterior() != null
 								&& informacoes.getDibAnterior().toString().length() > 0) {
 							if (anoDibAnterio < anoInicioCalculo) {
@@ -611,12 +703,12 @@ public class CalcauloController {
 							reajusteAcumuladoParaPrimeiroMes = BuscarReajusteDoPrimeiroMesDaTabelaSemADibAnterior(mesCalculo, anoCalculo, listReajuste, dateFormat, 1, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 						}
 
-						System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+						//System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 						if (!informacoes.isSalarioMinimo()) {
 							rmi = rmi * reajusteAcumuladoParaPrimeiroMes;
 						}
 						reajusteParaPrimeiroMes = reajusteAcumuladoParaPrimeiroMes;
-						System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO2 = " + correcaoAcumulada);
+						//System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO2 = " + correcaoAcumulada);
 						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 						if(!informacoes.isSelic()){
 							jurosAcumulado = 0;
@@ -629,24 +721,24 @@ public class CalcauloController {
 						}else{
 							//System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO3 = " + reajuste);
 							
-							System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
+							
 							dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 							if(!informacoes.isSelic()){
 							jurosAcumulado = 0;
 						}	
-						System.out.println("JUROSSS " + jurosAcumulado);
+						
 							calculoAdd = new CalculoDTO(dataCalculo, reajuste, rmi, (float) correcaoAcumulada,
 							jurosAcumulado,
 							porcentagemRmi);
 						}
-						System.out.println("1° - " + calculoAdd);
+						
 
 						///System.out.println("PARA VERIFICAR O REAJUSTE 2= " + reajusteAcumulado);
 					 
 	 	
 
-
-					System.out.println("Verificar Periodo = " + verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo));
+						
+					
 					if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
 						reajuste = 1;
 						listCalculo.add(calculoAdd);
@@ -675,21 +767,22 @@ public class CalcauloController {
 
 						calculoAdd = salario13(mesCalculo, anoCalculo, rmi, contadorMes13salrio, correcaoAcumulada,
 								jurosAcumulado, porcentagemRmi, salario13Obrigatorio, mesDip, anoDip);
-								System.out.println("RETORNO ADD= " + calculoAdd);
+								System.out.println(calculoAdd);
+						System.out.println(calculoAdd);		
 						if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
 							if (calculoAdd != null) {
 								if (anoCalculo == anoDip && mesCalculo == mesDip) {
 									int diaDip = Integer.parseInt(arrayDip[0]);
 									if (diaDip == 31) {
 										listCalculo.add(calculoAdd);
-										System.out.println("2° -" + calculoAdd);
+										
 									} else if (salario13Obrigatorio) {
 										listCalculo.add(calculoAdd);
-										System.out.println("3° - calcuclo " + calculoAdd);
+										
 									}
 								} else {
 									listCalculo.add(calculoAdd);
-									System.out.println("4° - calcuclo " + calculoAdd);
+									
 								}
 								contadorMes13salrio = 0;
 							}
@@ -699,41 +792,41 @@ public class CalcauloController {
 
 					// para o calculo
 					if (mesDip == mesCalculo && anoCalculo == anoDip) {
-						//System.out.println("RETORNOOOOOOOOOOOOOOOO " + listCalculo);
 						return listCalculo;
 					}
+					//System.out.println("ACABOU");
 
 					// verifica a data para fazer o colocar o reajuste
 
 
-					System.out.println("REAJUSTEEEEEEEEEEEEeeeeeeeeeeeeeeeeeeee " + mesResjusteSalarioMinimo + " Ano: "+ anoCalculo + " Mes" + mesCalculo);
+					//System.out.println("REAJUSTEEEEEEEEEEEEeeeeeeeeeeeeeeeeeeee " + mesResjusteSalarioMinimo + " Ano: "+ anoCalculo + " Mes" + mesCalculo);
 				 if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
-						System.out.println("entrou de primeira aqui????????????????????????????");
-						System.out.println("entrou 0" + mesCalculo);
+						//System.out.println("entrou de primeira aqui????????????????????????????");
+						//System.out.println("entrou 0" + mesCalculo);
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
-						System.out.println(reajusteAcumulado);
+						//System.out.println(reajusteAcumulado);
 					} else if (confirmadoData == 0) { 
-						System.out.println("OU AQUI???????????????????????????????");
+						//System.out.println("OU AQUI???????????????????????????????");
 						if (informacoes.getDibAnterior() != null
 								&& informacoes.getDibAnterior().toString().length() > 0) {
 							if (anoDibAnterio < anoInicioCalculo) {
-								System.out.println("entrou 1 " + anoDibAnterio +" - " + anoInicioCalculo);
+								//System.out.println("entrou 1 " + anoDibAnterio +" - " + anoInicioCalculo);
 								//buscarMesReajuste(listaSalarioMinimoParaTaxaSelic);
 								//reajusteAcumulado = calculoReajuste(1, anoCalculo, listReajuste, dateFormat, mesDibAnterio);
-								System.out.println("MES CAUCLO " + mesCalculo);
+								//System.out.println("MES CAUCLO " + mesCalculo);
 								reajusteAcumulado = ParaVerificarQuandoADibAnteriorForMenorQuEOAnoInicioCalculo(1, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
-								System.out.println("RETORNO = " + reajusteAcumulado);
+								//System.out.println("RETORNO = " + reajusteAcumulado);
 							} else if (anoDibAnterio == anoInicioCalculo && mesDibAnterio < mesIncioJuros) {
-								System.out.println("entrou 2");
+								//System.out.println("entrou 2");
 								reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesDibAnterio, anoCalculo, listReajuste,
 										dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 							} else { 
-								System.out.println("entrou 3");
+								//System.out.println("entrou 3");
 								reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 							}
 						} else { 
-							System.out.println("entrou 4");
-							System.out.println(mesCalculo + " " + anoCalculo+ " "+ " "+" " +dateFormat+" "+ " "+ mesDibAnterio+"  " +anoInicioCalculo);
+							//System.out.println("entrou 4");
+							//System.out.println(mesCalculo + " " + anoCalculo+ " "+ " "+" " +dateFormat+" "+ " "+ mesDibAnterio+"  " +anoInicioCalculo);
 							if(anoInicioCalculo == anoCalculo){
 								reajusteAcumulado = reajusteCasoDibAnteriorNaoExista(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo, mesInicioCalculo);
 							}else{
@@ -741,16 +834,16 @@ public class CalcauloController {
 							}
 							
 							//reajusteAcumulado = reajusteCasoDibAnteriorNaoExista(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo, mesInicioCalculo);
-							System.out.println("REAJUSTEEEEEEEEEEEEEEEEEEEEEEEEE = " + reajusteAcumulado);
+							//System.out.println("REAJUSTEEEEEEEEEEEEEEEEEEEEEEEEE = " + reajusteAcumulado);
 						}
 					}else if(anoInicioCalculo == anoCalculo && mesReajusteSalarioMin == mesCalculo){
-						System.out.println("PEGOU DE 20199999999999");
+						//System.out.println("PEGOU DE 20199999999999");
 						if (!informacoes.isSalarioMinimo()) {
-						    System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajuste = " + reajusteAcumulado);							
+						   // System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajuste = " + reajusteAcumulado);							
 							rmi = rmi * reajusteAcumulado;
 						}
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesCalculo, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
-						System.out.println("acumulados    =   " + reajusteAcumulado);
+						//System.out.println("acumulados    =   " + reajusteAcumulado);
 						
 					}
 
@@ -761,6 +854,7 @@ public class CalcauloController {
 
 					mesCalculo++;
 					if (mesCalculo == 13) {
+						contadorArrayQuantSalarioMinimo = 0;
 						mesCalculo = 01;
 						anoCalculo++;
 						entrouNoIfParaDataReajuste = false;
@@ -847,7 +941,7 @@ public class CalcauloController {
 			if(informacoes.getDibAnterior() == ""){
 				return beneficioAcumulado2(informacoes);
 			 }
-			System.out.println("NÃO PASSOUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU");
+			//System.out.println("NÃO PASSOUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU");
 			String[] arrayInicioCalculo = informacoes.getInicioCalculo().split("/");
 			int mesInicioCalculo = Integer.parseInt(arrayInicioCalculo[1]);
 			int anoInicioCalculo = Integer.parseInt(arrayInicioCalculo[2]);
@@ -903,12 +997,14 @@ public class CalcauloController {
 			int mesReajusteSalarioMin = 0;
 			int mesReajusteSalarioMinAnteriorAoInicioDoCalculo = 0;
 			boolean passYear = false;
-
+			
+			
 			if (anoCalculo <= anoDip) {
-				System.out.println("MMMMMMMMMMMMMMMMMMEE " + mesCalculo);
+				
 				while (anoCalculo != anoDip + 1) {
 
 					if(!entrouNoIfParaDataReajuste){
+						
 						mesReajusteSalarioMin = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, anoCalculo);
 						mesReajusteSalarioMinAnteriorAoInicioDoCalculo = buscarMesReajuste(listaSalarioMinimoParaTaxaSelic, (anoCalculo - 1));
 						entrouNoIfParaDataReajuste = true;
@@ -941,7 +1037,7 @@ public class CalcauloController {
 
 					
 					String[] arrayDibAnterior = informacoes.getDibAnterior().split("/");
-					System.out.println("22222222");
+					//System.out.println("22222222");
 							 boolean dibAnteriorTeste = String.valueOf(arrayDibAnterior.length).equals("1"); 
 							int mesDibAnterio = 0;
 							int anoDibAnterio=0; 
@@ -968,7 +1064,7 @@ public class CalcauloController {
 
 
 					}else if(mesReajusteSalarioMin >= mesInicioCalculo && mesCalculo == mesReajusteSalarioMin && anoCalculo == anoInicioCalculo){
-						System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+						//System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 						if (informacoes.getDibAnterior() != null
 							&& informacoes.getDibAnterior().toString().length() > 0) {
 						if (anoDibAnterio < anoInicioCalculo) {
@@ -990,7 +1086,7 @@ public class CalcauloController {
 						reajusteAcumuladoParaPrimeiroMes = BuscarReajusteDoPrimeiroMesDaTabelaSemADibAnterior(mesCalculo, anoCalculo, listReajuste, dateFormat, 1, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 					}
 
-					System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+					//System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 					if (!informacoes.isSalarioMinimo()) {
 						rmi = rmi * reajusteAcumuladoParaPrimeiroMes;
 					}
@@ -1004,14 +1100,14 @@ public class CalcauloController {
 
 					}else{
 						
-						System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
+						//System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
 						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 						calculoAdd = new CalculoDTO(dataCalculo, reajuste, rmi, (float) 0,
 						0,
 						porcentagemRmi);
 					}
 
-					System.out.println("ACUMULADOSSSSS = " + calculoAdd);
+					//System.out.println("ACUMULADOSSSSS = " + calculoAdd);
 
 					if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
 						reajuste = 1;
@@ -1059,6 +1155,7 @@ public class CalcauloController {
 
 						calculoAdd = salario13(mesCalculo, anoCalculo, rmi, contadorMes13salrio, 0,
 								0, porcentagemRmi, salario13Obrigatorio, mesDip, anoDip);
+								System.out.println(calculoAdd);
 						if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
 							if (calculoAdd != null) {
 								if (anoCalculo == anoDip && mesCalculo == mesDip) {
@@ -1089,11 +1186,11 @@ public class CalcauloController {
 						return listCalculo;
 					}
 					// verifica a data para fazer o colocar o reajuste
-					System.out.println(mesCalculo);
+					
 					if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
 						//reajusteAcumulado = calculoReajusteAcumulados(mesCalculo, anoCalculo, listReajuste, dateFormat);
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
-						System.out.println("VERIFY INACUMULADOS  "+ reajusteAcumulado +" " + mesCalculo +" "+ anoCalculo);
+						//System.out.println("VERIFY INACUMULADOS  "+ reajusteAcumulado +" " + mesCalculo +" "+ anoCalculo);
 					} else if (confirmadoData == 0) {
 						if (informacoes.getDibAnterior() != null
 								&& informacoes.getDibAnterior().toString().length() > 0) {
@@ -1101,26 +1198,26 @@ public class CalcauloController {
 								//reajusteAcumulado = calculoReajusteAcumulados(1, anoCalculo, listReajuste, dateFormat);
 								reajusteAcumulado = ParaVerificarQuandoADibAnteriorForMenorQuEOAnoInicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 							} else if (anoDibAnterio == anoInicioCalculo/*  && mesDibAnterio < mesInicioCalculo */) {
-								System.out.println("entrou 2 INACUMULADOS");
+								//System.out.println("entrou 2 INACUMULADOS");
 								reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesDibAnterio, anoCalculo, listReajuste,
 								dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 							} else {
-								System.out.println("entrou 3 INACUMULADOS");
+								//System.out.println("entrou 3 INACUMULADOS");
 								reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 							}
 						} else {
-							System.out.println("entrou 4 INACUMULADOS");
-							System.out.println(mesCalculo+" "+ anoCalculo);
+							//System.out.println("entrou 4 INACUMULADOS");
+							//System.out.println(mesCalculo+" "+ anoCalculo);
 							reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 						}
 					}else if(anoInicioCalculo == anoCalculo && mesReajusteSalarioMin == mesCalculo){
-						System.out.println("PEGOU DE 20199999999999");
+						//System.out.println("PEGOU DE 20199999999999");
 						if (!informacoes.isSalarioMinimo()) {
-						    System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajuste = " + reajusteAcumulado);							
+						   // System.out.println("SALARIOOOOOOOOOOOOOOOOOOOO MINIMOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO " + rmi + " reajuste = " + reajusteAcumulado);							
 							rmi = rmi * reajusteAcumulado;
 						}
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesCalculo, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
-						System.out.println("acumulados    =   " + reajusteAcumulado);
+						//System.out.println("acumulados    =   " + reajusteAcumulado);
 						
 					}
 
@@ -1154,8 +1251,8 @@ public class CalcauloController {
 
 	public List<CalculoDTO> beneficioAcumulado2(InfoCalculoDTO informacoes) {
 		try {
-			System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa " + informacoes);
-			System.out.println("ENTROU NO LUGAR CERTO DOS ACUMULADOS PARA VERIFICAR OS REAJUSTES");
+			//("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa " + informacoes);
+			//System.out.println("ENTROU NO LUGAR CERTO DOS ACUMULADOS PARA VERIFICAR OS REAJUSTES");
 			String[] arrayInicioCalculo = informacoes.getInicioCalculo().split("/");
 			int mesInicioCalculo = Integer.parseInt(arrayInicioCalculo[1]);
 			int anoInicioCalculo = Integer.parseInt(arrayInicioCalculo[2]);
@@ -1248,7 +1345,7 @@ public class CalcauloController {
 
 					
 					String[] arrayDibAnterior = informacoes.getDibAnterior().split("/");
-					System.out.println("22222222");
+					//System.out.println("22222222");
 							 boolean dibAnteriorTeste = String.valueOf(arrayDibAnterior.length).equals("1"); 
 							int mesDibAnterio = 0;
 							int anoDibAnterio=0; 
@@ -1275,7 +1372,7 @@ public class CalcauloController {
 
 
 					}else if(mesReajusteSalarioMin >= mesInicioCalculo && mesCalculo == mesReajusteSalarioMin && anoCalculo == anoInicioCalculo){
-						System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+						//System.out.println("ENTROU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 						if (informacoes.getDibAnterior() != null
 							&& informacoes.getDibAnterior().toString().length() > 0) {
 						if (anoDibAnterio < anoInicioCalculo) {
@@ -1297,7 +1394,7 @@ public class CalcauloController {
 						reajusteAcumuladoParaPrimeiroMes = BuscarReajusteDoPrimeiroMesDaTabelaSemADibAnterior(mesCalculo, anoCalculo, listReajuste, dateFormat, 1, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
 					}
 
-					System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
+					//System.out.println("SAIU NA GAMBIARRAAAAAAAAAAAAAAAAAAAAA");
 					if (!informacoes.isSalarioMinimo()) {
 						rmi = rmi * reajusteAcumuladoParaPrimeiroMes;
 					}
@@ -1312,7 +1409,7 @@ public class CalcauloController {
 					}else{
 						//System.out.println("CORRECAO ACUMULADA ANTES DE ENTYRAR NO OBJETO3 = " + reajuste);
 						
-						System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
+						//System.out.println("ENTROU NO ELSE " + mesCalculo + " - " + reajuste + " - " + reajusteAcumulado);
 						dataCalculo = out.format(in.parse(anoCalculo + "-" + mesCalculo + "-01"));
 						calculoAdd = new CalculoDTO(dataCalculo, reajuste, rmi, (float) 0,
 						0,
@@ -1367,7 +1464,6 @@ public class CalcauloController {
 
 						calculoAdd = salario13(mesCalculo, anoCalculo, rmi, contadorMes13salrio, 0,
 								0, porcentagemRmi, salario13Obrigatorio, mesDip, anoDip);
-								System.out.println("TESTEEEEEEEEEE = " + calculoAdd);
 						if (!verificarPeriodo(mesCalculo, anoCalculo, mesInicioCalculo, anoInicioCalculo)) {
 							if (calculoAdd != null) {
 								if (anoCalculo == anoDip && mesCalculo == mesDip) {
@@ -1398,7 +1494,7 @@ public class CalcauloController {
 						return listCalculo;
 					}
 					// verifica a data para fazer o colocar o reajuste
-					System.out.println(mesCalculo);
+					//System.out.println(mesCalculo);
 					if (mesCalculo == mesReajusteSalarioMin && anoCalculo != anoInicioCalculo) {
 						//reajusteAcumulado = calculoReajusteAcumulados(mesCalculo, anoCalculo, listReajuste, dateFormat);
 						reajusteAcumulado = dibAnteriorMenorAnoinicioCalculo(mesCalculo, anoCalculo, listReajuste, dateFormat, mesDibAnterio, listaSalarioMinimoParaTaxaSelic, anoInicioCalculo);
@@ -1604,6 +1700,35 @@ public class CalcauloController {
 		return salariominimo;
 	}
 
+
+
+	
+	public float salarioMinimoAuxicilioAcidente(int mesCalculo, int anoCalculo, DateTimeFormatter dateFormat,
+			List<SalarioMinimo> listaSalarioMinimo, int anoInicioCalculo) {
+		float salariominimo = 1;
+		// System.out.println("mes: " + mesCalculo + " ano: " + anoCalculo);
+		for (SalarioMinimo salarioMinimoList : listaSalarioMinimo) {
+
+			int ano = salarioMinimoList.getData().getYear();
+			int mes = salarioMinimoList.getData().getMonthValue();
+			if (ano == anoCalculo) {
+				if (mes <= mesCalculo) {
+					salariominimo = salarioMinimoList.getValor();
+					// System.out.println("mesSalario: " + mes + " anoSalrio: " + ano);
+				}
+			} else if (ano >= anoCalculo) {
+				return salariominimo;
+			}
+		}
+
+		return salariominimo;
+	}
+
+
+
+
+
+
 	/*
 	 * pega o valor do juros correspondente ao mes do calculo, faz o calculo do
 	 * juros somando os valos mes a mes a patir da data de atualizaca ate chegar a
@@ -1613,6 +1738,7 @@ public class CalcauloController {
 	public float calculoJuros(int mesCalculo, int anoCalculo, List<JurosDTO> listJuros, int mesAtualizacao,
 			int anoAtualizacao, int mesIncioJuros, int anoIncioJuros, DateTimeFormatter dateFormat) {
 				//System.out.println(listJuros);
+				
 		float jurosAcumulado = 0;
 		//System.out.println("ENTROU NO CALCULO JUROS " + mesCalculo + " anoCalculo: " + anoCalculo);
 				
@@ -1620,11 +1746,10 @@ public class CalcauloController {
 			for (int indexJuros = listJuros.size() - 1; indexJuros >= 0; indexJuros--) {
 				int mesJuros = listJuros.get(indexJuros).getData().getMonthValue();
 				int anoJuros = listJuros.get(indexJuros).getData().getYear();  
-				//System.out.println("MESSSS " + mesJuros + " anoJuros " + anoJuros + " jindex " + indexJuros);
-				//System.out.println(verificarPeriodo(mesIncioJuros, anoIncioJuros, mesJuros, anoJuros));
+				
 				if (verificarPeriodo(mesIncioJuros, anoIncioJuros, mesJuros, anoJuros)
 						&& verificarPeriodo(mesJuros, anoJuros, mesAtualizacao, anoAtualizacao)) {
-							//System.out.println("JUROS ACUMULADOOOOO " + jurosAcumulado + " mesJuros " +  listJuros.get(indexJuros).getJuros() + " MES " + mesJuros);
+							
 					jurosAcumulado += listJuros.get(indexJuros).getJuros();
 					
 				}
@@ -1632,7 +1757,7 @@ public class CalcauloController {
 				if (mesJuros == 2 && anoJuros == 2021 && mesCalculo == 2 && anoCalculo == 2021) {
 					
 				}
-
+				
 				if (mesJuros == mesCalculo && anoCalculo == anoJuros) {
 					
 					return jurosAcumulado;
@@ -1642,6 +1767,7 @@ public class CalcauloController {
 
 			if (listJuros.get(0).getType() == 0) {
 				//System.out.println("ENTROU NO QUARTO IF DOS JUROS PARA VERIFICAR SELIC  = "+ jurosAcumulado);
+				
 				return jurosAcumulado;
 			}
 			return 0;
@@ -1661,6 +1787,7 @@ public class CalcauloController {
 				//System.out.println("ENTROU NO CORRECAO " + mesCalculo + " = " + anoCalculo);
 				float correcaoAcumulada = 1;
 				//System.out.println("PARA SABER O MES = " + mesCalculo);
+				
 		try {
 			for (int indexCorrecao = listCorrecao.size() - 1; indexCorrecao >= 0; indexCorrecao--) {
 				int mesCorrecao = listCorrecao.get(indexCorrecao).getData().getMonthValue();
@@ -1669,7 +1796,7 @@ public class CalcauloController {
 					if(anoCorrecao == 2021 && mesCorrecao == 12){
 						//System.out.println("PRIMEIRO IF " + correcaoAcumulada + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 1));
 						correcaoAcumulada += ((listCorrecao.get(indexCorrecao).getPercentual() / 100));
-
+						
 					}else if(anoCorrecao > 2021){
 						BigDecimal resultado = new BigDecimal(listCorrecao.get(indexCorrecao).getPercentual()).divide(new BigDecimal("100"), 4, BigDecimal.ROUND_HALF_UP);
 						/* System.out.println(resultado);
@@ -1678,11 +1805,15 @@ public class CalcauloController {
 
 						//correcaoAcumulada += (resultado).floatValue();
 						correcaoAcumulada += Float.parseFloat((String.format("%.4f", resultado)).replace(",", "."));
-
-						
+						/* System.out.println("ano: " + anoCorrecao + " . " + "mes: " + mesCorrecao + " ." + " valor: " + listCorrecao.get(indexCorrecao).getPercentual());
+						System.out.println("correcaoAacumulada: " + correcaoAcumulada); */
+					
+						//System.out.println(correcaoAcumulada);
 					}else{
 						//System.out.println("TERCEIRO " + correcaoAcumulada  + " - " + (listCorrecao.get(indexCorrecao).getPercentual() / 100));
 						correcaoAcumulada *= ((listCorrecao.get(indexCorrecao).getPercentual() / 100) + 1);
+						/* System.out.println("ano: " + anoCorrecao + " . " + "mes: " + mesCorrecao + " ." + " valor: " + listCorrecao.get(indexCorrecao).getPercentual());
+						System.out.println("correcaoAacumulada: " + correcaoAcumulada); */
 					}
 					
 					
@@ -1758,9 +1889,9 @@ public class CalcauloController {
 				int anoReajuste = listReajuste.get(i).getData().getYear();
 				//System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
 				if (mesReajuste == mesCalculo && anoCalculo == anoReajuste) {
-					System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
+					
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
-					System.out.println(reajusteAcumulado);
+					
 					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
@@ -1788,9 +1919,9 @@ public class CalcauloController {
 				int anoReajuste = listReajuste.get(i).getData().getYear();
 				//System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
 				if (mesReajuste == mesCalculo && anoCalculo == anoReajuste) {
-					System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
+					
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
-					System.out.println(reajusteAcumulado);
+					
 					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
@@ -1812,7 +1943,7 @@ public class CalcauloController {
 				
 		float reajusteAcumulado = 1;
 		int mesSalarioMinimo = buscarMesReajuste(listaSalarioMinimo, anoCalculo);
-		System.out.println("MES PARA VERIFICAR " + mesCalculo +" - " + mesSalarioMinimo);
+		
 		try {
 			for (int i = listReajuste.size() - 1; i >= 0; i--) {
 				int mesReajuste = listReajuste.get(i).getData().getMonthValue();
@@ -1821,13 +1952,12 @@ public class CalcauloController {
 					//System.out.println(anoInicioCalculo + " "+anoCalculo + " " + mesReajuste);
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//System.out.println("SADLKASÇDLADKALÇDDLDLAÇDKÇLADÇDKASÇL " + buscarMesReajuste(listaSalarioMinimo, anoCalculo));
-					System.out.println("RETONOU NO PRIMEIRO IF " + listReajuste.get(i));
+					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
-
-
+				
 				if (mesReajuste == mesSalarioMinimo && anoCalculo == anoReajuste) {
-					System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
+					
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//if(anoSalarioMinimo == )
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
@@ -1850,7 +1980,7 @@ public class CalcauloController {
 				
 		float reajusteAcumulado = 1;
 		int mesSalarioMinimo = buscarMesReajuste(listaSalarioMinimo, anoCalculo);
-		System.out.println("MES PARA VERIFICAR " + mesCalculo +" - " + mesSalarioMinimo);
+		
 		try {
 			for (int i = listReajuste.size() - 1; i >= 0; i--) {
 				int mesReajuste = listReajuste.get(i).getData().getMonthValue();
@@ -1859,7 +1989,7 @@ public class CalcauloController {
 					//System.out.println(anoInicioCalculo + " "+anoCalculo + " " + mesReajuste);
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//System.out.println("SADLKASÇDLADKALÇDDLDLAÇDKÇLADÇDKASÇL " + buscarMesReajuste(listaSalarioMinimo, anoCalculo));
-					System.out.println("RETONOU NO PRIMEIRO IF " + listReajuste.get(i));
+					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
 
@@ -1887,7 +2017,7 @@ public class CalcauloController {
 			DateTimeFormatter dateFormat, int mesDibAnterior, List<SalarioMinimo> listaSalarioMinimo, int anoInicioCalculo) {
 		float reajusteAcumulado = 1;
 		int mesSalarioMinimo = buscarMesReajuste(listaSalarioMinimo, anoCalculo);
-		System.out.println("MES PARA VERIFICAR " + mesCalculo +" - " + mesSalarioMinimo);
+		
 		try {
 			for (int i = listReajuste.size() - 1; i >= 0; i--) {
 				int mesReajuste = listReajuste.get(i).getData().getMonthValue();
@@ -1896,13 +2026,13 @@ public class CalcauloController {
 					//System.out.println(anoInicioCalculo + " "+anoCalculo + " " + mesReajuste);
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//System.out.println("SADLKASÇDLADKALÇDDLDLAÇDKÇLADÇDKASÇL " + buscarMesReajuste(listaSalarioMinimo, anoCalculo));
-					System.out.println("RETONOU NO PRIMEIRO IF " + (float) (listReajuste.get(i).getReajusteAcumulado()));
+					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
 
 
 				if (mesReajuste == mesSalarioMinimo && anoCalculo == anoReajuste) {
-					System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
+					
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//if(anoSalarioMinimo == )
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
@@ -1934,7 +2064,7 @@ public float BuscarReajusteDoPrimeiroMesDaTabela(int mesCalculo, int anoCalculo,
 			DateTimeFormatter dateFormat, int mesDibAnterior, List<SalarioMinimo> listaSalarioMinimo, int anoInicioCalculo) {
 		float reajusteAcumulado = 1;
 		int mesSalarioMinimo = buscarMesReajuste(listaSalarioMinimo, anoCalculo);
-		System.out.println("MES PARA VERIFICAR " + mesCalculo +" - " + mesSalarioMinimo + " - " + mesDibAnterior + " - " + anoInicioCalculo + " - " + anoCalculo);
+		
 		try {
 			for (int i = listReajuste.size() - 1; i >= 0; i--) {
 				int mesReajuste = listReajuste.get(i).getData().getMonthValue();
@@ -1943,13 +2073,13 @@ public float BuscarReajusteDoPrimeiroMesDaTabela(int mesCalculo, int anoCalculo,
 					//System.out.println(anoInicioCalculo + " "+anoCalculo + " " + mesReajuste);
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//System.out.println("SADLKASÇDLADKALÇDDLDLAÇDKÇLADÇDKASÇL " + buscarMesReajuste(listaSalarioMinimo, anoCalculo));
-					System.out.println("RETONOU NO PRIMEIRO IF " + listReajuste.get(i));
+
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
 
 
 				if (mesReajuste == mesSalarioMinimo && anoCalculo == anoReajuste) {
-					System.out.println("calculoReajuste. Mes:  " + mesReajuste + ". Ano: " + anoReajuste);
+					
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//if(anoSalarioMinimo == )
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
@@ -1972,7 +2102,7 @@ public float BuscarReajusteDoPrimeiroMesDaTabela(int mesCalculo, int anoCalculo,
 			DateTimeFormatter dateFormat, int mesDibAnterior, List<SalarioMinimo> listaSalarioMinimo, int anoInicioCalculo) {
 		float reajusteAcumulado = 1;
 		int mesSalarioMinimo = buscarMesReajuste(listaSalarioMinimo, anoCalculo);
-		System.out.println("MES PARA VERIFICAR " + mesCalculo +" - " + mesSalarioMinimo + " - " + mesDibAnterior + " - " + anoInicioCalculo + " - " + anoCalculo);
+		
 		try {
 			for (int i = listReajuste.size() - 1; i >= 0; i--) {
 				int mesReajuste = listReajuste.get(i).getData().getMonthValue();
@@ -1981,7 +2111,7 @@ public float BuscarReajusteDoPrimeiroMesDaTabela(int mesCalculo, int anoCalculo,
 					//System.out.println(anoInicioCalculo + " "+anoCalculo + " " + mesReajuste);
 					reajusteAcumulado = (float) listReajuste.get(i).getReajusteAcumulado();
 					//System.out.println("SADLKASÇDLADKALÇDDLDLAÇDKÇLADÇDKASÇL " + buscarMesReajuste(listaSalarioMinimo, anoCalculo));
-					System.out.println("RETONOU NO PRIMEIRO IF " + listReajuste.get(i));
+					
 					return (float) (listReajuste.get(i).getReajusteAcumulado());
 				}
 
@@ -2023,6 +2153,43 @@ public float BuscarReajusteDoPrimeiroMesDaTabela(int mesCalculo, int anoCalculo,
 		}
 		return 12;
 	}
+
+
+
+	public int buscarSegundoMesReajuste(List<SalarioMinimo> listaSalarioMinimo, int anoCalculo){
+
+		try{
+			for( int i = 0; i<listaSalarioMinimo.size(); i++){
+				int anoSalarioMinimo = listaSalarioMinimo.get(i).getData().getYear();
+				if(anoSalarioMinimo == anoCalculo){
+					return (int) listaSalarioMinimo.get(i).getData().getMonthValue();
+				} 
+			}
+		} catch (Exception e){
+			System.out.println(e);
+		}
+		return 12;
+	}
+
+	
+	public List<LocalDate> existeMaisDeUmaAtualizacaoSoSalarioMinimoNoAno(List<SalarioMinimo> listaSalarioMinimo, int anoCalculo){
+		
+		
+		List<LocalDate> datasEncontradas = new ArrayList<LocalDate>();
+		try{
+			for( int i = 0; i<listaSalarioMinimo.size(); i++){
+				int anoSalarioMinimo = listaSalarioMinimo.get(i).getData().getYear();
+				if(anoSalarioMinimo == anoCalculo){
+					datasEncontradas.add(listaSalarioMinimo.get(i).getData());
+				} 
+			}
+			return datasEncontradas;
+		} catch (Exception e){
+			System.out.println(e);
+		}
+		return null;
+	}
+
 
 	
 
